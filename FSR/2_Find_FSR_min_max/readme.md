@@ -139,3 +139,5 @@ R_FSR: 3290000.00 Ω, Force: 98.4 %
 ---
 
 ✨ _This setup allows monitoring of applied force via FSR on STM32 using PlatformIO._
+
+<img width="1920" height="1080" alt="Screenshot from 2025-10-17 15-26-25" src="https://github.com/user-attachments/assets/a93d678b-d502-4d43-adfb-81e7bda8c837" />
