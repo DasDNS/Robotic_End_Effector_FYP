@@ -98,3 +98,8 @@ You should see the resistance values of the FSR printed every **30 seconds**.
 ---
 
 ✨ _This setup allows you to monitor pressure changes via FSR on the STM32 using PlatformIO!_
+
+<img width="1920" height="1080" alt="Screenshot from 2025-10-17 15-06-35" src="https://github.com/user-attachments/assets/fd3f7853-1f88-436f-a2e4-5dd918f5fcff" />
+<img width="1920" height="1080" alt="Screenshot from 2025-10-17 15-08-50" src="https://github.com/user-attachments/assets/07e204ba-de20-4a54-98cd-287dbeed2a58" />
+<img width="1920" height="1080" alt="Screenshot from 2025-10-17 15-08-50" src="https://github.com/user-attachments/assets/0b83a96c-c81b-4e2c-b6c0-b8ff99e23944" />
+<img width="1920" height="1080" alt="Screenshot from 2025-10-17 15-08-50" src="https://github.com/user-attachments/assets/923c1815-61be-4e77-b624-87b78bbf2bb6" />
