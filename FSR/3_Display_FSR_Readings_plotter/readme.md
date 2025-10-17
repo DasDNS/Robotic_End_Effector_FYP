@@ -100,7 +100,7 @@ void loop() {
 
 1. Install the **Serial Plotter** extension by Mario Zechner:  
    - **Marketplace:** serial-plotter  
-   - [Link](https://marketplace.visualstudio.com/items?itemName=mariozechner.serial-plotter)
+   - [Link](https://marketplace.visualstudio.com/items?itemName=badlogicgames.serial-plotter)
 
 2. Open the **Serial Plotter** from the PlatformIO toolbar.
 3. Select the correct **COM port** (usually the last connected USB-to-STM32 device).
@@ -113,12 +113,12 @@ void loop() {
 
 ```
 --- Opened the serial port /dev/ttyUSB0 ----
-R_FSR: 3290000.00 Ω, Force: 0.0 %
+R_FSR: 3290000.00 Ω, Force: 0.0 % (Not pressed)
 R_FSR: 41477.06 Ω, Force: 99.7 %
 R_FSR: 3290000.00 Ω, Force: 0.0 %
-R_FSR: 105710.66 Ω, Force: 97.7 %
+R_FSR: 105710.66 Ω, Force: 97.7 % (Pressed)
 R_FSR: 83750.00 Ω, Force: 98.4 %
-R_FSR: 32700.73 Ω, Force: 100.0 %
+R_FSR: 32700.73 Ω, Force: 100.0 % (Pressed really hard)
 ---- Closed the serial port /dev/ttyUSB0 ----
 ```
 
