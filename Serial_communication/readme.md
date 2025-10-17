@@ -113,7 +113,7 @@ Hello, Blue Pill!
 | **Output** | Prints "Hello, Blue Pill!" every second |
 
 ---
+<img width="749" height="580" alt="Screenshot from 2025-10-17 11-22-26" src="https://github.com/user-attachments/assets/1a52a56b-6db4-491d-82f5-dd00f8d3c419" />
 
 <img width="1920" height="1080" alt="Screenshot from 2025-10-17 11-51-40" src="https://github.com/user-attachments/assets/23d441d2-7cf7-4d12-b785-70a04a5d53e5" />
 <img width="1920" height="1080" alt="Screenshot from 2025-10-17 11-51-40" src="https://github.com/user-attachments/assets/03f498d4-695a-4c93-882c-ea2ef402fa6e" />
-
