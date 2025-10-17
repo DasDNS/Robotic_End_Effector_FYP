@@ -114,3 +114,6 @@ Hello, Blue Pill!
 
 ---
 
+<img width="1920" height="1080" alt="Screenshot from 2025-10-17 11-51-40" src="https://github.com/user-attachments/assets/23d441d2-7cf7-4d12-b785-70a04a5d53e5" />
+<img width="1920" height="1080" alt="Screenshot from 2025-10-17 11-51-40" src="https://github.com/user-attachments/assets/03f498d4-695a-4c93-882c-ea2ef402fa6e" />
+
