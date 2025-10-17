@@ -142,3 +142,13 @@ R_FSR: 32700.73 Ω, Force: 100.0 %
 ---
 
 ✨ _Monitor real-time force readings from your FSR sensor on STM32 using PlatformIO Serial Plotter!_
+
+<img width="1920" height="1080" alt="Screenshot from 2025-10-17 16-10-38" src="https://github.com/user-attachments/assets/5ddf4bdf-8960-40c7-a452-207e76a0a6a8" />
+
+<video width="1920" height="1080" controls>
+    <source src="https://github.com/user-attachments/assets/0d75ed40-793a-45ee-a326-0e650b0f6932" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  
+https://github.com/user-attachments/assets/0d75ed40-793a-45ee-a326-0e650b0f6932
+
