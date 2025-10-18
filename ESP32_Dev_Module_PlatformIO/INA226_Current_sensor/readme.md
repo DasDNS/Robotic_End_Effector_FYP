@@ -132,4 +132,5 @@ void loop() {
 ---
 
 ✨ _Monitor voltage, current, and power from your ESP32 in real-time using the INA226 sensor!_
+Note: Followed this [tutorial](https://makerbotics.com/knowledge-base/teensy-4-1-ina226-current-sensor-tutorial/). (Not sure about the accuracy of the wiring and values. 
 <img width="1920" height="1080" alt="Screenshot from 2025-10-18 13-17-34" src="https://github.com/user-attachments/assets/a2c401d2-1082-4b36-b034-345a064566c0" />
