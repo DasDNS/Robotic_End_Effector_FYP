@@ -100,7 +100,7 @@ void loop() {
 
 1. Install the **Serial Plotter** extension by Mario Zechner:  
    - **Marketplace:** serial-plotter  
-   - [Link](https://marketplace.visualstudio.com/items?itemName=badlogicgames.serial-plotter)
+   - [Link](https://marketplace.visualstudio.com/items?itemName=mariozechner.serial-plotter)
 
 2. Open the **Serial Plotter** from the PlatformIO toolbar.
 3. Select the correct **COM port** (usually the last connected USB-to-STM32 device).
@@ -113,12 +113,12 @@ void loop() {
 
 ```
 --- Opened the serial port /dev/ttyUSB0 ----
-R_FSR: 3290000.00 Ω, Force: 0.0 % (Not pressed)
+R_FSR: 3290000.00 Ω, Force: 0.0 %
 R_FSR: 41477.06 Ω, Force: 99.7 %
 R_FSR: 3290000.00 Ω, Force: 0.0 %
-R_FSR: 105710.66 Ω, Force: 97.7 % (Pressed)
+R_FSR: 105710.66 Ω, Force: 97.7 %
 R_FSR: 83750.00 Ω, Force: 98.4 %
-R_FSR: 32700.73 Ω, Force: 100.0 % (Pressed really hard)
+R_FSR: 32700.73 Ω, Force: 100.0 %
 ---- Closed the serial port /dev/ttyUSB0 ----
 ```
 
@@ -142,13 +142,3 @@ R_FSR: 32700.73 Ω, Force: 100.0 % (Pressed really hard)
 ---
 
 ✨ _Monitor real-time force readings from your FSR sensor on STM32 using PlatformIO Serial Plotter!_
-
-<img width="1920" height="1080" alt="Screenshot from 2025-10-17 16-10-38" src="https://github.com/user-attachments/assets/5ddf4bdf-8960-40c7-a452-207e76a0a6a8" />
-
-<video width="1920" height="1080" controls>
-    <source src="https://github.com/user-attachments/assets/0d75ed40-793a-45ee-a326-0e650b0f6932" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  
-https://github.com/user-attachments/assets/0d75ed40-793a-45ee-a326-0e650b0f6932
-
