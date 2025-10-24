@@ -116,3 +116,4 @@ This successful test validates both hardware connections and sensor calibration.
 <img width="984" height="608" alt="image" src="https://github.com/user-attachments/assets/d3fd3a75-3773-49e3-bff6-b54f9d145ca9" />
 <img width="1920" height="1080" alt="Screenshot from 2025-10-24 18-11-17" src="https://github.com/user-attachments/assets/a107b27a-8d67-4b2e-a1ef-813bec21359d" />
 <img width="1920" height="1080" alt="Screenshot from 2025-10-24 18-11-17" src="https://github.com/user-attachments/assets/a86c9fba-d456-4d31-a1bf-5e19895e04e9" />
+<img width="790" height="692" alt="image" src="https://github.com/user-attachments/assets/c72aa9ba-6134-4db6-a415-1f5eb7863bdc" />
