@@ -88,3 +88,6 @@ This indicates that an I2C device was successfully detected at address **0x40**.
 - Always double-check pull-up resistors on the SDA and SCL lines if no devices are found.  
 - Suitable for quick I2C hardware verification using **PlatformIO** or **Arduino IDE**.
 
+<img width="1920" height="1080" alt="Screenshot from 2025-10-24 12-38-14" src="https://github.com/user-attachments/assets/c5a421d0-93c4-4df7-b19a-83453e4a7449" /> </br>
+<img width="1920" height="1080" alt="Screenshot from 2025-10-24 12-38-14" src="https://github.com/user-attachments/assets/a903e6eb-3f84-4281-b2d9-ad1049c4430d" /></br>
+<img width="1920" height="1080" alt="Screenshot from 2025-10-24 12-38-14" src="https://github.com/user-attachments/assets/c095b8a1-237f-4ff0-9bc2-777dcdc8b034" />
