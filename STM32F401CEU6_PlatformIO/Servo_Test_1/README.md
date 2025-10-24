@@ -94,7 +94,8 @@ If using USB (max 500 mA), **use external 5V supply** to avoid brownouts.
 
 ## 🎥 Demonstration
 
-[▶️ Watch demo video]([./demo.mp4](https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://github.com/user-attachments/assets/b047719a-9d5a-4905-b462-e08ca6b3eb56)
+[▶️ Watch demo video]([./demo.mp4](https://github.com/user-attachments/assets/b047719a-9d5a-4905-b462-e08ca6b3eb56))
+
 ---
 
 ## 🧰 References
@@ -109,7 +110,4 @@ If using USB (max 500 mA), **use external 5V supply** to avoid brownouts.
 **✅ Result:**  
 The servo moves accurately between specified angles, confirming successful PWM signal generation and proper wiring.
 
-
-
-
-
+<img width="795" height="660" alt="image" src="https://github.com/user-attachments/assets/28776636-63ac-4a57-ab3d-23447806a4af" />
