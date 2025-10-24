@@ -126,6 +126,6 @@ Refer: [esp32-servo-motor](https://esp32io.com/tutorials/esp32-servo-motor)
 
 ---
 <img width="912" height="445" alt="image" src="https://github.com/user-attachments/assets/ebfa07ec-179f-48b0-84bf-45b81644871a" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2f0d326d-d8b7-462b-b0a5-34c98a2799b1" />
+<img alt="image" src="https://github.com/user-attachments/assets/2f0d326d-d8b7-462b-b0a5-34c98a2799b1" />
 
 [▶️ Watch demo video]([./demo.mp4](https://github.com/user-attachments/assets/8201881d-a845-44b4-9b8e-72ce573bcf3e))
