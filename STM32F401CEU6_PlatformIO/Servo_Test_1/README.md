@@ -94,24 +94,22 @@ If using USB (max 500 mA), **use external 5V supply** to avoid brownouts.
 
 ## 🎥 Demonstration
 
-If you want to embed a video demo in this README (e.g., uploaded to YouTube), use this Markdown snippet:
-
-```markdown
-### 🎬 Watch the Demo
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-```
-
-Replace `YOUR_VIDEO_ID` with your actual YouTube video ID.
-
+[▶️ Watch demo video]([./demo.mp4](https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://github.com/user-attachments/assets/b047719a-9d5a-4905-b462-e08ca6b3eb56))
 ---
 
 ## 🧰 References
 
 - [STM32 Black Pill (WeAct V3.0) Pinout](https://stm32-base.org/boards/STM32F401CEU6-WeAct-Black-Pill-V3.0.html)
-- [Arduino Servo Library Documentation](https://www.arduino.cc/reference/en/libraries/servo/)
-- [STM32 Arduino Core Setup Guide](https://github.com/stm32duino/Arduino_Core_STM32)
+- [Arduino Servo Library Documentation](https://docs.arduino.cc/libraries/servo/)
+- [STM32 BluePill Servo Test 1](https://circuitdigest.com/microcontroller-projects/servo-motor-interfacing-with-stm32f103c8-stm32-development-board)
+- [STM32 BluePill Servo Test 2](https://www.mathaelectronics.com/how-to-control-a-servo-motor-with-stm32f103c8t6-blue-pill/)
 
 ---
 
 **✅ Result:**  
 The servo moves accurately between specified angles, confirming successful PWM signal generation and proper wiring.
+
+
+
+
+
