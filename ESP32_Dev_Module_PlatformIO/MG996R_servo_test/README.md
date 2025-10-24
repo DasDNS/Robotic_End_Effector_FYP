@@ -121,9 +121,12 @@ lib_deps = ESP32Servo
 ## 🧠 Summary
 
 This example shows how easily an ESP32 can control servo motors using PWM signals with the `ESP32Servo` library.
-You can adapt this example for robotic arms, pan-tilt cameras, or other motion-control projects.
+You can adapt this example for robotic arms, pan-tilt cameras, or other motion-control projects. </br>
 Refer: [esp32-servo-motor](https://esp32io.com/tutorials/esp32-servo-motor)
 
 ---
+<img width="912" height="445" alt="image" src="https://github.com/user-attachments/assets/ebfa07ec-179f-48b0-84bf-45b81644871a" />
+<img width="912" height="445" alt="image" src="https://github.com/user-attachments/assets/2f0d326d-d8b7-462b-b0a5-34c98a2799b1" />
 
-
+<iframe width="560" height="315" src="https://github.com/user-attachments/assets/8201881d-a845-44b4-9b8e-72ce573bcf3e" 
+title="YouTube video player" frameborder="0" allowfullscreen></iframe>
