@@ -52,19 +52,18 @@ This project demonstrates how to interface an **INA226** sensor with an STM32 mi
 4. Open the Serial Monitor at **115200 baud**.
 5. Observe the output:
 
-----------------------
-Scanning I2C bus for devices...
-Found device at 0x40
-INA226 detected! Initializing...
-INA226 initialized successfully!
-Bus Voltage: 0.00 V
-Shunt Voltage: 0.00 mV
-Current: 0.00 mA
-Power: 0.00 mW
-----------------------
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/33427b24-bad6-4d08-869c-9d883da3f936" />
-
 ---
+----------------------
+- Scanning I2C bus for devices...
+- Found device at 0x40
+- INA226 detected! Initializing...
+- INA226 initialized successfully!
+- Bus Voltage: 0.00 V
+- Shunt Voltage: 0.00 mV
+- Current: 0.00 mA
+- Power: 0.00 mW
+----------------------
+<img width="1920" height="1080" alt="Screenshot from 2025-10-24 14-20-44" src="https://github.com/user-attachments/assets/fdec0d57-8f30-4223-844c-21fd8c437aa2" />
 
 ## Notes
 
