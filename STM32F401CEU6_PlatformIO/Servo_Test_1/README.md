@@ -94,7 +94,7 @@ If using USB (max 500 mA), **use external 5V supply** to avoid brownouts.
 
 ## 🎥 Demonstration
 
-[▶️ Watch demo video]([./demo.mp4](https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://github.com/user-attachments/assets/b047719a-9d5a-4905-b462-e08ca6b3eb56))
+[▶️ Watch demo video]([./demo.mp4](https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://github.com/user-attachments/assets/b047719a-9d5a-4905-b462-e08ca6b3eb56)
 ---
 
 ## 🧰 References
