@@ -108,3 +108,8 @@ This project is released under the **MIT License**.
 - [INA226 Datasheet (Texas Instruments)](https://www.ti.com/lit/ds/symlink/ina226.pdf)
 - [Rob Tillaart INA226 Arduino Library](https://github.com/RobTillaart/INA226)
 - [Makerbotics Tutorial Reference](https://makerbotics.com/knowledge-base/teensy-4-1-ina226-current-sensor-tutorial/)
+
+<img width="1920" height="1080" alt="Screenshot from 2025-10-24 16-01-32" src="https://github.com/user-attachments/assets/32a92cb2-5b31-4b99-9193-f8dac90d1b9c" />
+<img width="1094" height="610" alt="image" src="https://github.com/user-attachments/assets/f497f4f8-0743-44ae-9169-ead6cbe8bf70" />
+<img width="679" height="668" alt="image" src="https://github.com/user-attachments/assets/982fdea4-763a-4f4d-be47-e05ace344f06" />
+<img width="1000" height="667" alt="image" src="https://github.com/user-attachments/assets/7cc238b1-ae78-4a59-a60c-9a830a6cee47" />
