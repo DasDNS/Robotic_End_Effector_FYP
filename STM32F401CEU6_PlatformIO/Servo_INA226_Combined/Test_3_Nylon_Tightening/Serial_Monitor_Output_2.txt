@@ -1,0 +1,46 @@
+---- Opened the serial port /dev/ttyUSB0 ----
+
+=== STM32 Black Pill: Servo (PB13) + INA226 Test ===
+Scanning I2C bus...
+Found device at 0x40
+INA226 found. Initializing...
+Servo attached to PB13.
+
+Enter 0, 1, or 2 to move the servo:
+---- Sent utf8 encoded message: "0" ----
+Command 0 → Fully bent position
+Moving servo (us): 500
+Current[mA]: 5.38
+
+Current[mA]: 18.77
+
+Current[mA]: 5.35
+
+Current[mA]: 18.92
+
+Enter next command:
+---- Sent utf8 encoded message: "1" ----
+Command 1 → Half bent (midpoint)
+Moving servo (us): 1450
+Current[mA]: 5.43
+
+Current[mA]: 5.38
+
+Current[mA]: 5.40
+
+Current[mA]: 5.43
+
+Enter next command:
+---- Sent utf8 encoded message: "2" ----
+Command 2 → Fully straightened
+Moving servo (us): 2400
+Current[mA]: 5.43
+
+Current[mA]: 5.40
+
+Current[mA]: 5.30
+
+Current[mA]: 5.28
+
+Enter next command:
+---- Closed serial port /dev/ttyUSB0 due to disconnection from the machine ----
