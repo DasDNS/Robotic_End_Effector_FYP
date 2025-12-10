@@ -15,7 +15,7 @@ different applied forces.
 - **Product Link:**  
   https://www.aliexpress.com/item/1005004179560138.html?spm=a2g0o.productlist.main.3.2abd745bx4g5Qf&algo_pvid=62851c7d-c8f2-4dfd-b0a4-8640cacc2dda&algo_exp_id=62851c7d-c8f2-4dfd-b0a4-8640cacc2dda-2&pdp_ext_f=%7B%22order%22%3A%2222%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21LKR%21684.46%21684.46%21%21%211.98%211.98%21%4021010d9017653315653574763edf0b%2112000029375561128%21sea%21LK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aef51c8d8%3Bm03_new_user%3A-29895&curPageLogUid=C0mXhUAEBzqL&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005004179560138%7C_p_origin_prod%3A
 
-- **Sensing Range:** 0.2 N – 20 N  
+- **Sensing Range:** 0.2 N – 20 N  (0.02 kg – 2.0 kg)
 - **Observed Serial Output Range:** **0 – 1005**
 
 These sensors have a broader active area, making them more sensitive at
@@ -28,7 +28,7 @@ higher forces. The readings can climb close to the ADC maximum.
 - **Product Link:**  
   https://www.daraz.lk/products/10kg-flexible-thin-film-resistor-type-pressure-force-sensor-diameter-75mm-i468452501-s2348987727.html?tradePath=omItm&dsource=share&laz_share_info=2324033570_0_100_313960_2324035570_null&laz_token=5967c58e0acac87d65eadcac756fa948&exlaz=e_Suk%2FkoKnCZHGip8qo24MCYMJi4p1oqLymUr0ZCz22CzCXvTKdNAtBRDjfkVq9rrTXDCmqmBVz2nYKBL%2Bg5j681syLq7qX%2BphSPdvZ0DPOq0%3D&sub_aff_id=social_share&sub_id2=2324033570&sub_id3=313960&sub_id6=CPI_EXLAZ
 
-- **Sensing Range:** 0 – 10 kg  
+- **Sensing Range:** 0 – 10 kg  (0 N – 100 N)
 - **Observed Serial Output Range:** **0 – 562**
 
 The smaller sensing area produces lower ADC values for the same force
