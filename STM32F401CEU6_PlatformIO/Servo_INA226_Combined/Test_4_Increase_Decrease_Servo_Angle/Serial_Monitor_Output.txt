@@ -1,0 +1,120 @@
+---- Opened the serial port /dev/ttyUSB0 ----
+
+=== STM32 Black Pill: Servo + INA226 Control ===
+Scanning I2C bus...
+Found device at 0x40
+INA226 found. Initializing...
+Servo attached to PB13.
+
+Commands:
+0 → Fully bent
+1 → Mid position
+2 → Fully straight
+3 → Step -100 us
+4 → Step +100 us
+------------------------------
+---- Sent utf8 encoded message: "0" ----
+Command 0 → Fully bent
+Moving servo (us): 500
+Current [mA]: 18.32
+Current [mA]: 18.60
+Current [mA]: 5.43
+Current [mA]: 18.60
+Enter next command:
+---- Sent utf8 encoded message: "1" ----
+Command 1 → Mid position
+Moving servo (us): 1450
+Current [mA]: 5.40
+Current [mA]: 18.62
+Current [mA]: 18.65
+Current [mA]: 5.45
+Enter next command:
+---- Sent utf8 encoded message: "2" ----
+Command 2 → Fully straight
+Moving servo (us): 2400
+Current [mA]: 17.32
+Current [mA]: 5.45
+Current [mA]: 5.32
+Current [mA]: 5.45
+Enter next command:
+---- Sent utf8 encoded message: "4" ----
+Command 4 → Step towards straight (+100 us)
+Moving servo (us): 2400
+Current [mA]: 5.43
+Current [mA]: 5.38
+Current [mA]: 5.40
+Current [mA]: 5.32
+Enter next command:
+---- Sent utf8 encoded message: "0" ----
+Command 0 → Fully bent
+Moving servo (us): 500
+Current [mA]: 18.60
+Current [mA]: 17.62
+Current [mA]: 5.38
+Current [mA]: 5.43
+Enter next command:
+---- Sent utf8 encoded message: "1" ----
+Command 1 → Mid position
+Moving servo (us): 1450
+Current [mA]: 5.38
+Current [mA]: 18.62
+Current [mA]: 16.60
+Current [mA]: 5.43
+Enter next command:
+---- Sent utf8 encoded message: "2" ----
+Command 2 → Fully straight
+Moving servo (us): 2400
+Current [mA]: 5.38
+Current [mA]: 5.40
+Current [mA]: 5.32
+Current [mA]: 5.32
+Enter next command:
+---- Sent utf8 encoded message: "1" ----
+Command 1 → Mid position
+Moving servo (us): 1450
+Current [mA]: 5.35
+Current [mA]: 5.43
+Current [mA]: 106.02
+Current [mA]: 5.48
+Enter next command:
+---- Sent utf8 encoded message: "3" ----
+Command 3 → Step towards bent (-100 us)
+Moving servo (us): 1350
+Current [mA]: 5.45
+Current [mA]: 5.38
+Current [mA]: 18.62
+Current [mA]: 5.40
+Enter next command:
+---- Sent utf8 encoded message: "0" ----
+Command 0 → Fully bent
+Moving servo (us): 500
+Current [mA]: 18.65
+Current [mA]: 5.38
+Current [mA]: 5.45
+Current [mA]: 5.45
+Enter next command:
+---- Sent utf8 encoded message: "4" ----
+Command 4 → Step towards straight (+100 us)
+Moving servo (us): 600
+Current [mA]: 18.60
+Current [mA]: 5.48
+Current [mA]: 5.35
+Current [mA]: 5.38
+Enter next command:
+---- Sent utf8 encoded message: "4" ----
+Command 4 → Step towards straight (+100 us)
+Moving servo (us): 700
+Current [mA]: 5.32
+Current [mA]: 18.65
+Current [mA]: 5.38
+Current [mA]: 18.62
+Enter next command:
+---- Sent utf8 encoded message: "3" ----
+Command 3 → Step towards bent (-100 us)
+Moving servo (us): 600
+Current [mA]: 5.35
+Current [mA]: 5.43
+Current [mA]: 18.75
+Current [mA]: 5.35
+Enter next command:
+---- Closed serial port /dev/ttyUSB0 due to disconnection from the machine ----

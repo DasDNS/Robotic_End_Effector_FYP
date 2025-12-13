@@ -1,0 +1,181 @@
+**** Failed to open the serial port /dev/ttyS0 ****
+---- Opened the serial port /dev/ttyUSB0 ----
+
+=== STM32 Black Pill: Servo (PB13) + INA226 Test ===
+Scanning I2C bus...
+Found device at 0x40
+INA226 found. Initializing...
+Servo attached to PB13.
+
+Enter 0, 1, or 2 to move the servo:
+---- Sent utf8 encoded message: "0" ----
+Command 0 → Fully bent position
+Moving servo (us): 500
+I2C error: 4
+---- Sent utf8 encoded message: "2" ----
+
+=== STM32 Black Pill: Servo (PB13) + INA226 Test ===
+Scanning I2C bus...
+Found device at 0x40
+INA226 found. Initializing...
+Servo attached to PB13.
+
+Enter 0, 1, or 2 to move the servo:
+---- Sent utf8 encoded message: "1" ----
+Command 1 → Half bent (midpoint)
+Moving servo (us): 1450
+Current[mA]: 5.38
+
+Current[mA]: 5.48
+
+Current[mA]: 17.22
+
+Current[mA]: 5.43
+
+Enter next command:
+---- Sent utf8 encoded message: "2" ----
+Command 2 → Fully straightened
+Moving servo (us): 2400
+Current[mA]: 17.25
+
+Current[mA]: 17.22
+
+Current[mA]: 17.17
+
+Current[mA]: 17.17
+
+Enter next command:
+---- Sent utf8 encoded message: "1" ----
+Command 1 → Half bent (midpoint)
+Moving servo (us): 1450
+Current[mA]: 5.32
+
+Current[mA]: 17.32
+
+Current[mA]: 5.30
+
+Current[mA]: 5.48
+
+Enter next command:
+---- Sent utf8 encoded message: "2" ----
+Command 2 → Fully straightened
+Moving servo (us): 2400
+Current[mA]: 5.40
+
+Current[mA]: 5.40
+
+Current[mA]: 5.38
+
+Current[mA]: 5.45
+
+Enter next command:
+---- Sent utf8 encoded message: "0" ----
+Command 0 → Fully bent position
+Moving servo (us): 500
+Current[mA]: 18.70
+
+Current[mA]: 18.70
+
+Current[mA]: 5.43
+
+Current[mA]: 18.75
+
+Enter next command:
+---- Closed serial port /dev/ttyUSB0 due to disconnection from the machine ----
+**** Failed to open the serial port /dev/ttyS0 ****
+**** Failed to open the serial port /dev/ttyS0 ****
+**** Failed to open the serial port /dev/ttyS0 ****
+---- Opened the serial port /dev/ttyUSB0 ----
+---- Closed the serial port /dev/ttyUSB0 ----
+---- Opened the serial port /dev/ttyUSB0 ----
+
+=== STM32 Black Pill: Servo (PB13) + INA226 Test ===
+Scanning I2C bus...
+Found device at 0x40
+INA226 found. Initializing...
+Servo attached to PB13.
+
+Enter 0, 1, or 2 to move the servo:
+---- Sent utf8 encoded message: "0" ----
+Command 0 → Fully bent position
+Moving servo (us): 500
+Current[mA]: 0.00
+
+Current[mA]: 0.03
+
+Current[mA]: 0.00
+
+Current[mA]: 0.03
+
+Enter next command:
+---- Sent utf8 encoded message: "2" ----
+Command 2 → Fully straightened
+Moving servo (us): 2400
+Current[mA]: 0.00
+
+Current[mA]: 0.00
+
+Current[mA]: 0.00
+
+Current[mA]: 0.00
+
+Enter next command:
+---- Closed serial port /dev/ttyUSB0 due to disconnection from the machine ----
+---- Opened the serial port /dev/ttyUSB0 ----
+
+=== STM32 Black Pill: Servo (PB13) + INA226 Test ===
+Scanning I2C bus...
+Found device at 0x40
+INA226 found. Initializing...
+Servo attached to PB13.
+
+Enter 0, 1, or 2 to move the servo:
+---- Sent utf8 encoded message: "0" ----
+Command 0 → Fully bent position
+Moving servo (us): 500
+I2C error: 4
+
+=== STM32 Black Pill: Servo (PB13) + INA226 Test ===
+Scanning I2C bus...
+Found device at 0x40
+INA226 found. Initializing...
+Servo attached to PB13.
+
+Enter 0, 1, or 2 to move the servo:
+---- Sent utf8 encoded message: "0" ----
+Command 0 → Fully bent position
+Moving servo (us): 500
+Current[mA]: 5.32
+
+Current[mA]: 5.48
+
+Current[mA]: 5.38
+
+Current[mA]: 5.48
+
+Enter next command:
+---- Sent utf8 encoded message: "2" ----
+Command 2 → Fully straightened
+Moving servo (us): 2400
+Current[mA]: 18.67
+
+Current[mA]: 5.40
+
+Current[mA]: 5.43
+
+Current[mA]: 5.40
+
+Enter next command:
+---- Sent utf8 encoded message: "0" ----
+Command 0 → Fully bent position
+Moving servo (us): 500
+Current[mA]: 18.62
+
+Current[mA]: 18.82
+
+Current[mA]: 5.35
+
+Current[mA]: 9.13
+
+Enter next command:
+---- Closed serial port /dev/ttyUSB0 due to disconnection from the machine ----
