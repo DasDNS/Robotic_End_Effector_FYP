@@ -1,0 +1,40 @@
+---- Opened the serial port /dev/ttyUSB0 ----
+
+=== STM32 PB8/PB9 I2C + PCA9548A Scanner ===
+[SCAN] Main I2C bus (expect PCA9548A at 0x70)
+  Found I2C device at 0x70
+
+[SCAN] PCA9548A channel 0
+  Devices behind this channel:
+  Found I2C device at 0x70
+
+[SCAN] PCA9548A channel 1
+  Devices behind this channel:
+  Found I2C device at 0x70
+
+[SCAN] PCA9548A channel 2
+  Devices behind this channel:
+  Found I2C device at 0x70
+
+[SCAN] PCA9548A channel 3
+  Devices behind this channel:
+  Found I2C device at 0x70
+
+[SCAN] PCA9548A channel 4
+  Devices behind this channel:
+  Found I2C device at 0x70
+
+[SCAN] PCA9548A channel 5
+  Devices behind this channel:
+  Found I2C device at 0x70
+
+[SCAN] PCA9548A channel 6
+  Devices behind this channel:
+  Found I2C device at 0x70
+
+[SCAN] PCA9548A channel 7
+  Devices behind this channel:
+  Found I2C device at 0x70
+
+=== Scan complete ===
+
