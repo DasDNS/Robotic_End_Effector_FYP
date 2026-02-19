@@ -48,8 +48,6 @@ def append_limited(text_edit: QTextEdit, line: str, max_lines: int = 400):
 # ----------------------------
 # Classify MCU output for YOUR C++ code
 # ----------------------------
-# Current line example:
-# 26780,2400,S0=5.25 mA, S1=5.32 mA, S2=4.90 mA, S3=5.25 mA, S4=5.30 mA
 CURRENT_RE = re.compile(r"^\d+,\d+,S0=.*mA, S1=.*mA, S2=.*mA, S3=.*mA, S4=.*mA$")
 
 def classify_mcu_line(s: str) -> str:
@@ -92,6 +90,7 @@ class SerialManager(QObject):
                 port,
                 baud,
                 timeout=0.2,
+                exclusive=True
             )
 
             # STM32/adapter sometimes toggles DTR/RTS and resets board when opening.
@@ -152,8 +151,8 @@ class SerialManager(QObject):
 
     def write_single_char_cmd(self, ch: str):
         """
-        Firmware uses Serial.read() and switch(cmd) with '0'..'4'.
-        So safest is: send exactly ONE byte and NO line ending.
+        Firmware uses Serial.read() and switch(cmd) with '0' and '1'.
+        Safest: send exactly ONE byte and NO line ending.
         """
         if not ch or len(ch) != 1:
             self.sig_error.emit("Internal error: command must be one character.")
@@ -199,7 +198,7 @@ class MainWindow(QWidget):
         super().__init__()
         self.serial_mgr = SerialManager()
 
-        self.setWindowTitle("STM32 Hand Control UI (PySide6 + Serial)")
+        self.setWindowTitle("STM32 Hand Control UI (0/1 Ramp, 10s)")
         self.setMinimumWidth(950)
 
         scroll = QScrollArea()
@@ -238,18 +237,18 @@ class MainWindow(QWidget):
         conn_group.setLayout(conn_layout)
         root.addWidget(conn_group)
 
-        # Quick controls -> 0..4
+        # Quick controls -> 0..1
         quick_group = QGroupBox("Quick Controls (send single-char commands)")
         quick_layout = QHBoxLayout()
 
-        self.btn_cmd0 = QPushButton("0  Ramp → 500")
-        self.btn_cmd1 = QPushButton("1  Ramp → 2400")
-        self.btn_cmd2 = QPushButton("2  Instant → 2400")
-        self.btn_cmd3 = QPushButton("3  Step −10 µs")
-        self.btn_cmd4 = QPushButton("4  Step +10 µs")
+        # REQUIRED mapping:
+        # 1: 2400 -> 500 (close)
+        # 0: 500 -> 2400 (open)
+        self.btn_cmd1 = QPushButton("1  Ramp CLOSE → 500 (10s)")
+        self.btn_cmd0 = QPushButton("0  Ramp OPEN  → 2400 (10s)")
         self.btn_clear = QPushButton("Clear UI")
 
-        for b in (self.btn_cmd0, self.btn_cmd1, self.btn_cmd2, self.btn_cmd3, self.btn_cmd4, self.btn_clear):
+        for b in (self.btn_cmd1, self.btn_cmd0, self.btn_clear):
             quick_layout.addWidget(b)
 
         quick_group.setLayout(quick_layout)
@@ -260,11 +259,11 @@ class MainWindow(QWidget):
         tx_layout = QHBoxLayout()
 
         self.tx_input = QLineEdit()
-        self.tx_input.setPlaceholderText("Type and press Enter (NOTE: firmware reads 1 char at a time!)")
+        self.tx_input.setPlaceholderText("Type 0 or 1 and press Enter (firmware reads 1 char at a time)")
 
         self.tx_line_ending = QComboBox()
         self.tx_line_ending.addItems(["NONE", "LF", "CR", "CRLF"])
-        self.tx_line_ending.setCurrentText("NONE")  # your requirement
+        self.tx_line_ending.setCurrentText("NONE")
 
         self.btn_send = QPushButton("Send")
 
@@ -330,11 +329,8 @@ class MainWindow(QWidget):
         self.btn_disconnect.clicked.connect(self.disconnect_serial)
 
         # Quick buttons -> send single char exactly
-        self.btn_cmd0.clicked.connect(lambda: self.send_single("0"))
         self.btn_cmd1.clicked.connect(lambda: self.send_single("1"))
-        self.btn_cmd2.clicked.connect(lambda: self.send_single("2"))
-        self.btn_cmd3.clicked.connect(lambda: self.send_single("3"))
-        self.btn_cmd4.clicked.connect(lambda: self.send_single("4"))
+        self.btn_cmd0.clicked.connect(lambda: self.send_single("0"))
 
         self.btn_clear.clicked.connect(self.clear_ui)
 
@@ -398,8 +394,7 @@ class MainWindow(QWidget):
         self.port_status.setText(f"Status: Connected to {port}")
         self.btn_connect.setEnabled(False)
         self.btn_disconnect.setEnabled(True)
-        # don't auto-send anything; firmware doesn't have PING and prints a lot already
-        append_limited(self.log_box, "Connected. Use buttons 0–4 or the send box.", max_lines=450)
+        append_limited(self.log_box, "Connected. Use buttons 1 (close) and 0 (open).", max_lines=450)
 
     def on_serial_disconnected(self):
         self.port_status.setText("Status: Not connected")
@@ -425,8 +420,6 @@ class MainWindow(QWidget):
         self.serial_mgr.write_text(text, line_ending=ending)
         self.tx_input.clear()
 
-        # IMPORTANT NOTE shown in log:
-        # If user typed "123", firmware will read '1' then '2' then '3' as separate commands.
         if len(text) > 1 and ending == "NONE":
             append_limited(
                 self.log_box,
