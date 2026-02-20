@@ -18,7 +18,7 @@
 #define SERVO3_PIN PA8   // Index  (INA channel 3)
 #define SERVO4_PIN PA11  // Thumb  (INA channel 4)
 
-#define SERVO_MIN_US 500
+#define SERVO_MIN_US 800 //Min = 500
 #define SERVO_MAX_US 2400
 
 #define FULL_SWEEP_TIME_SEC 8.0f
@@ -680,13 +680,12 @@ void loop() {
         break;
       }
 
-
       case STATE_CLOSING_FAST: {
         // Move to 2000 @ normal speed (only once)
         if (!fastCommanded) {
           // FAST multipliers
           speedMul[0] = 1.00f; // Pinky
-          speedMul[1] = 3.00f; // Ring
+          speedMul[1] = 4.00f; // Ring
           speedMul[2] = 1.00f; // Middle 
           speedMul[3] = 1.00f; // Index
           speedMul[4] = 1.00f; // Thumb
@@ -707,7 +706,7 @@ void loop() {
         if (!slowCommanded) {
           // SLOW multipliers 
           speedMul[0] = 1.00f; // Pinky
-          speedMul[1] = 2.00f; // Ring
+          speedMul[1] = 8.00f; // Ring
           speedMul[2] = 1.00f; // Middle 
           speedMul[3] = 1.00f; // Index
           speedMul[4] = 1.00f; // Thumb
@@ -743,14 +742,14 @@ void loop() {
         // Tighten = ramp enabled fingers toward 500 @ 30% speed (only once)
         if (!tightenCommanded) {
           speedMul[0] = 1.00f;
-          speedMul[1] = 1.00f;
+          speedMul[1] = 8.00f;
           speedMul[2] = 1.00f; 
           speedMul[3] = 1.00f;
           speedMul[4] = 1.00f;
 
           startRampAllToUsingGlobalMul(SERVO_MIN_US, autoRampSpeedUsPerSec * 0.30f, true);
           tightenCommanded = true;
-          Serial.println("[FSM] TIGHTEN started: ramp -> 500us @ 30% speed");
+          Serial.println("[FSM] TIGHTEN started: ramp -> 800us @ 30% speed");
         }
 
         // If huge FSR change happens during slow -> HOLD
