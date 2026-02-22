@@ -477,7 +477,8 @@ void enterState(HandState s) {
     settleRecoverStartMs = 0;
   }
 
-  Serial.print("[STATE] ");
+  Serial.print(millis());
+  Serial.print(",[STATE] ");
   Serial.println(stateName(state));
   lastPrintedState = state;
 }
