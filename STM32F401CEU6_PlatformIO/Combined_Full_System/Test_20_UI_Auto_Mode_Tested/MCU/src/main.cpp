@@ -173,7 +173,7 @@ const float I_TIGHTEN_HIGH_MA = 800.0f;
 // HOLD release rule (contact disappears)
 const float HOLD_RELEASE_FSR_FRAC = 0.20f;
 const float HOLD_RELEASE_I_MA     = 100.0f;
-const uint32_t HOLD_RELEASE_DEBOUNCE_MS = 150;
+const uint32_t HOLD_RELEASE_DEBOUNCE_MS = 350;
 uint32_t holdReleaseLowStartMs = 0;
 
 // ======================================================
@@ -880,4 +880,3 @@ void loop() {
     printFSRLive();
   }
 }
-
