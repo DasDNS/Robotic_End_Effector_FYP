@@ -1,0 +1,1316 @@
+20969,2400,S0=5.25 mA, S1=5.32 mA, S2=4.90 mA, S3=5.28 mA, S4=5.23 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+21169,2400,S0=5.25 mA, S1=5.30 mA, S2=4.85 mA, S3=5.28 mA, S4=5.25 mA
+FSR Live: PB0=1.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+21369,2400,S0=5.28 mA, S1=5.32 mA, S2=4.90 mA, S3=5.30 mA, S4=5.23 mA
+FSR Live: PB0=1.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=1.00, PA2=0.00, PA1=0.00, PA0=0.00
+21569,2400,S0=5.25 mA, S1=5.35 mA, S2=4.88 mA, S3=5.30 mA, S4=5.28 mA
+FSR Live: PB0=1.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+21769,2400,S0=5.25 mA, S1=5.32 mA, S2=4.90 mA, S3=5.25 mA, S4=5.28 mA
+FSR Live: PB0=1.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+21969,2400,S0=5.25 mA, S1=5.32 mA, S2=4.88 mA, S3=5.28 mA, S4=5.30 mA
+FSR Live: PB0=1.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+22169,2400,S0=5.25 mA, S1=5.32 mA, S2=4.88 mA, S3=5.25 mA, S4=5.30 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+22369,2400,S0=5.25 mA, S1=5.32 mA, S2=4.90 mA, S3=5.30 mA, S4=5.28 mA
+FSR Live: PB0=1.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+22569,2400,S0=5.28 mA, S1=5.35 mA, S2=4.88 mA, S3=5.23 mA, S4=5.28 mA
+FSR Live: PB0=1.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+22769,2400,S0=5.25 mA, S1=5.32 mA, S2=4.90 mA, S3=5.28 mA, S4=5.28 mA
+FSR Live: PB0=1.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+22969,2400,S0=5.28 mA, S1=5.32 mA, S2=4.85 mA, S3=5.28 mA, S4=5.28 mA
+FSR Live: PB0=1.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+23169,2400,S0=5.25 mA, S1=5.30 mA, S2=4.88 mA, S3=5.25 mA, S4=5.23 mA
+FSR Live: PB0=1.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+23369,2400,S0=5.28 mA, S1=5.30 mA, S2=4.88 mA, S3=5.25 mA, S4=5.32 mA
+FSR Live: PB0=1.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+23569,2400,S0=5.25 mA, S1=5.32 mA, S2=4.88 mA, S3=5.25 mA, S4=5.32 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+23769,2400,S0=5.28 mA, S1=5.32 mA, S2=4.90 mA, S3=5.25 mA, S4=5.28 mA
+FSR Live: PB0=1.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+23969,2400,S0=5.25 mA, S1=5.35 mA, S2=4.88 mA, S3=5.32 mA, S4=5.25 mA
+FSR Live: PB0=1.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+24169,2400,S0=5.28 mA, S1=5.35 mA, S2=4.88 mA, S3=5.28 mA, S4=5.28 mA
+FSR Live: PB0=1.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+24369,2400,S0=5.28 mA, S1=5.32 mA, S2=4.90 mA, S3=5.28 mA, S4=5.25 mA
+FSR Live: PB0=1.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+24569,2400,S0=5.25 mA, S1=5.35 mA, S2=4.88 mA, S3=5.28 mA, S4=5.28 mA
+FSR Live: PB0=1.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+24769,2400,S0=5.32 mA, S1=5.30 mA, S2=4.88 mA, S3=5.35 mA, S4=5.25 mA
+FSR Live: PB0=1.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+24969,2400,S0=5.23 mA, S1=5.32 mA, S2=4.93 mA, S3=5.25 mA, S4=5.28 mA
+FSR Live: PB0=1.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+25169,2400,S0=5.25 mA, S1=5.32 mA, S2=4.85 mA, S3=5.35 mA, S4=5.28 mA
+FSR Live: PB0=1.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+25369,2400,S0=5.25 mA, S1=5.30 mA, S2=4.88 mA, S3=5.28 mA, S4=5.28 mA
+FSR Live: PB0=1.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+25569,2400,S0=5.25 mA, S1=5.32 mA, S2=4.90 mA, S3=5.28 mA, S4=5.32 mA
+FSR Live: PB0=1.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+25769,2400,S0=5.28 mA, S1=5.30 mA, S2=4.88 mA, S3=5.25 mA, S4=5.30 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+25969,2400,S0=5.28 mA, S1=5.32 mA, S2=4.88 mA, S3=5.35 mA, S4=5.32 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+26169,2400,S0=5.25 mA, S1=5.32 mA, S2=4.85 mA, S3=5.28 mA, S4=5.25 mA
+FSR Live: PB0=1.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+Received: 1
+Servos attached (enabled).
+Moving servos (us): 500
+Enter next command:
+Moving servos (us): 510
+Moving servos (us): 520
+Moving servos (us): 530
+Moving servos (us): 540
+Moving servos (us): 550
+Moving servos (us): 560
+Moving servos (us): 570
+Moving servos (us): 580
+Moving servos (us): 590
+Moving servos (us): 600
+Moving servos (us): 610
+Moving servos (us): 620
+Moving servos (us): 630
+Moving servos (us): 640
+Moving servos (us): 650
+26369,650,S0=5.30 mA, S1=233.90 mA, S2=600.08 mA, S3=281.98 mA, S4=789.28 mA
+FSR Live: PB0=1.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+Moving servos (us): 660
+Moving servos (us): 670
+Moving servos (us): 680
+Moving servos (us): 690
+Moving servos (us): 700
+Moving servos (us): 710
+Moving servos (us): 720
+Moving servos (us): 730
+Moving servos (us): 740
+Moving servos (us): 750
+Moving servos (us): 760
+Moving servos (us): 770
+Moving servos (us): 780
+Moving servos (us): 790
+Moving servos (us): 800
+Moving servos (us): 810
+Moving servos (us): 820
+Moving servos (us): 830
+Moving servos (us): 840
+26569,840,S0=328.58 mA, S1=212.10 mA, S2=320.38 mA, S3=312.42 mA, S4=230.90 mA
+Moving servos (us): 850
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+Moving servos (us): 860
+Moving servos (us): 870
+Moving servos (us): 880
+Moving servos (us): 890
+Moving servos (us): 900
+Moving servos (us): 910
+Moving servos (us): 920
+Moving servos (us): 930
+Moving servos (us): 940
+Moving servos (us): 950
+Moving servos (us): 960
+Moving servos (us): 970
+Moving servos (us): 980
+Moving servos (us): 990
+Moving servos (us): 1000
+Moving servos (us): 1010
+Moving servos (us): 1020
+Moving servos (us): 1030
+Moving servos (us): 1040
+26769,1040,S0=362.83 mA, S1=17.82 mA, S2=450.05 mA, S3=33.55 mA, S4=4.88 mA
+Moving servos (us): 1050
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+Moving servos (us): 1060
+Moving servos (us): 1070
+Moving servos (us): 1080
+Moving servos (us): 1090
+Moving servos (us): 1100
+Moving servos (us): 1110
+Moving servos (us): 1120
+Moving servos (us): 1130
+Moving servos (us): 1140
+Moving servos (us): 1150
+Moving servos (us): 1160
+Moving servos (us): 1170
+Moving servos (us): 1180
+Moving servos (us): 1190
+Moving servos (us): 1200
+Moving servos (us): 1210
+Moving servos (us): 1220
+Moving servos (us): 1230
+Moving servos (us): 1240
+26969,1240,S0=132.90 mA, S1=117.02 mA, S2=185.00 mA, S3=44.25 mA, S4=99.50 mA
+Moving servos (us): 1250
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+Moving servos (us): 1260
+Moving servos (us): 1270
+Moving servos (us): 1280
+Moving servos (us): 1290
+Moving servos (us): 1300
+Moving servos (us): 1310
+Moving servos (us): 1320
+Moving servos (us): 1330
+Moving servos (us): 1340
+Moving servos (us): 1350
+Moving servos (us): 1360
+Moving servos (us): 1370
+Moving servos (us): 1380
+Moving servos (us): 1390
+Moving servos (us): 1400
+Moving servos (us): 1410
+Moving servos (us): 1420
+Moving servos (us): 1430
+Moving servos (us): 1440
+27169,1440,S0=81.05 mA, S1=35.25 mA, S2=61.50 mA, S3=52.78 mA, S4=35.70 mA
+Moving servos (us): 1450
+FSR Live: PB0=1.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=1.00, PA2=0.00, PA1=0.00, PA0=0.00
+Moving servos (us): 1460
+Moving servos (us): 1470
+Moving servos (us): 1480
+Moving servos (us): 1490
+Moving servos (us): 1500
+Moving servos (us): 1510
+Moving servos (us): 1520
+Moving servos (us): 1530
+Moving servos (us): 1540
+Moving servos (us): 1550
+Moving servos (us): 1560
+Moving servos (us): 1570
+Moving servos (us): 1580
+Moving servos (us): 1590
+Moving servos (us): 1600
+Moving servos (us): 1610
+Moving servos (us): 1620
+Moving servos (us): 1630
+Moving servos (us): 1640
+27369,1640,S0=36.22 mA, S1=57.22 mA, S2=97.62 mA, S3=38.00 mA, S4=55.38 mA
+Moving servos (us): 1650
+FSR Live: PB0=1.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+Moving servos (us): 1660
+Moving servos (us): 1670
+Moving servos (us): 1680
+Moving servos (us): 1690
+Moving servos (us): 1700
+Moving servos (us): 1710
+Moving servos (us): 1720
+Moving servos (us): 1730
+Moving servos (us): 1740
+Moving servos (us): 1750
+Moving servos (us): 1760
+Moving servos (us): 1770
+Moving servos (us): 1780
+Moving servos (us): 1790
+Moving servos (us): 1800
+Moving servos (us): 1810
+Moving servos (us): 1820
+Moving servos (us): 1830
+Moving servos (us): 1840
+27569,1840,S0=31.27 mA, S1=49.08 mA, S2=93.65 mA, S3=819.17 mA, S4=661.88 mA
+Moving servos (us): 1850
+FSR Live: PB0=4.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+Moving servos (us): 1860
+Moving servos (us): 1870
+Moving servos (us): 1880
+Moving servos (us): 1890
+Moving servos (us): 1900
+Moving servos (us): 1910
+Moving servos (us): 1920
+Moving servos (us): 1930
+Moving servos (us): 1940
+Moving servos (us): 1950
+Moving servos (us): 1960
+Moving servos (us): 1970
+Moving servos (us): 1980
+Moving servos (us): 1990
+Moving servos (us): 2000
+Moving servos (us): 2010
+Moving servos (us): 2020
+Moving servos (us): 2030
+Moving servos (us): 2040
+27769,2040,S0=65.68 mA, S1=141.63 mA, S2=139.15 mA, S3=798.97 mA, S4=819.17 mA
+Moving servos (us): 2050
+FSR Live: PB0=5.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+Moving servos (us): 2060
+Moving servos (us): 2070
+Moving servos (us): 2080
+Moving servos (us): 2090
+Moving servos (us): 2100
+Moving servos (us): 2110
+Moving servos (us): 2120
+Moving servos (us): 2130
+Moving servos (us): 2140
+Moving servos (us): 2150
+Moving servos (us): 2160
+Moving servos (us): 2170
+Moving servos (us): 2180
+Moving servos (us): 2190
+Moving servos (us): 2200
+Moving servos (us): 2210
+Moving servos (us): 2220
+Moving servos (us): 2230
+Moving servos (us): 2240
+27969,2240,S0=41.90 mA, S1=51.70 mA, S2=187.20 mA, S3=805.78 mA, S4=819.17 mA
+Moving servos (us): 2250
+FSR Live: PB0=1.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+Moving servos (us): 2260
+Moving servos (us): 2270
+Moving servos (us): 2280
+Moving servos (us): 2290
+Moving servos (us): 2300
+Moving servos (us): 2310
+Moving servos (us): 2320
+Moving servos (us): 2330
+Moving servos (us): 2340
+Moving servos (us): 2350
+Moving servos (us): 2360
+Moving servos (us): 2370
+Moving servos (us): 2380
+Moving servos (us): 2390
+Moving servos (us): 2400
+28169,2400,S0=59.47 mA, S1=60.95 mA, S2=51.18 mA, S3=712.15 mA, S4=819.17 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+28369,2400,S0=47.75 mA, S1=75.55 mA, S2=57.03 mA, S3=38.20 mA, S4=43.20 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+28569,2400,S0=74.82 mA, S1=71.27 mA, S2=53.25 mA, S3=46.68 mA, S4=40.88 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=1.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+28769,2400,S0=53.33 mA, S1=71.40 mA, S2=52.60 mA, S3=46.28 mA, S4=41.03 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+28969,2400,S0=52.80 mA, S1=69.07 mA, S2=52.22 mA, S3=43.38 mA, S4=48.30 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+29169,2400,S0=42.43 mA, S1=51.03 mA, S2=52.65 mA, S3=39.20 mA, S4=43.35 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+29369,2400,S0=51.15 mA, S1=65.07 mA, S2=52.78 mA, S3=45.80 mA, S4=61.95 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=1.00, PA2=0.00, PA1=0.00, PA0=0.00
+29569,2400,S0=51.15 mA, S1=99.32 mA, S2=50.95 mA, S3=39.55 mA, S4=48.22 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+29769,2400,S0=52.80 mA, S1=64.85 mA, S2=50.88 mA, S3=47.28 mA, S4=56.03 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+29969,2400,S0=51.18 mA, S1=63.22 mA, S2=51.18 mA, S3=46.35 mA, S4=39.63 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+30169,2400,S0=51.20 mA, S1=65.15 mA, S2=51.10 mA, S3=46.50 mA, S4=46.72 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=1.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+30369,2400,S0=52.83 mA, S1=63.18 mA, S2=50.95 mA, S3=47.28 mA, S4=47.30 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+30569,2400,S0=52.95 mA, S1=64.85 mA, S2=51.33 mA, S3=47.10 mA, S4=47.03 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+30769,2400,S0=53.65 mA, S1=66.82 mA, S2=51.33 mA, S3=46.85 mA, S4=45.40 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+30969,2400,S0=51.10 mA, S1=64.10 mA, S2=50.43 mA, S3=46.85 mA, S4=64.55 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+31169,2400,S0=51.28 mA, S1=66.40 mA, S2=51.18 mA, S3=47.08 mA, S4=46.43 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+31369,2400,S0=51.43 mA, S1=66.52 mA, S2=51.50 mA, S3=47.55 mA, S4=46.35 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+31569,2400,S0=52.72 mA, S1=63.58 mA, S2=51.28 mA, S3=63.33 mA, S4=45.55 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+31769,2400,S0=51.20 mA, S1=64.10 mA, S2=51.40 mA, S3=47.28 mA, S4=44.72 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+31969,2400,S0=51.90 mA, S1=93.95 mA, S2=50.90 mA, S3=63.13 mA, S4=39.05 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+32169,2400,S0=50.50 mA, S1=66.25 mA, S2=51.53 mA, S3=46.58 mA, S4=45.72 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=1.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+32369,2400,S0=52.00 mA, S1=65.35 mA, S2=50.45 mA, S3=39.22 mA, S4=45.88 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+32569,2400,S0=52.00 mA, S1=64.82 mA, S2=50.30 mA, S3=63.45 mA, S4=46.88 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+32769,2400,S0=51.55 mA, S1=71.45 mA, S2=51.40 mA, S3=48.00 mA, S4=42.10 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+32969,2400,S0=51.58 mA, S1=65.32 mA, S2=50.30 mA, S3=39.40 mA, S4=57.83 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+33169,2400,S0=53.03 mA, S1=65.02 mA, S2=50.63 mA, S3=20.42 mA, S4=45.90 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+33369,2400,S0=51.45 mA, S1=68.12 mA, S2=50.47 mA, S3=63.95 mA, S4=46.05 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+Received: 0
+Moving servos (us): 2400
+Enter next command:
+Moving servos (us): 2390
+Moving servos (us): 2380
+Moving servos (us): 2370
+Moving servos (us): 2360
+Moving servos (us): 2350
+Moving servos (us): 2340
+Moving servos (us): 2330
+Moving servos (us): 2320
+Moving servos (us): 2310
+Moving servos (us): 2300
+Moving servos (us): 2290
+Moving servos (us): 2280
+Moving servos (us): 2270
+Moving servos (us): 2260
+Moving servos (us): 2250
+Moving servos (us): 2240
+33569,2240,S0=228.33 mA, S1=29.92 mA, S2=187.58 mA, S3=819.17 mA, S4=37.93 mA
+Moving servos (us): 2230
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+Moving servos (us): 2220
+Moving servos (us): 2210
+Moving servos (us): 2200
+Moving servos (us): 2190
+Moving servos (us): 2180
+Moving servos (us): 2170
+Moving servos (us): 2160
+Moving servos (us): 2150
+Moving servos (us): 2140
+Moving servos (us): 2130
+Moving servos (us): 2120
+Moving servos (us): 2110
+Moving servos (us): 2100
+Moving servos (us): 2090
+Moving servos (us): 2080
+Moving servos (us): 2070
+Moving servos (us): 2060
+Moving servos (us): 2050
+Moving servos (us): 2040
+33769,2040,S0=39.38 mA, S1=32.25 mA, S2=80.27 mA, S3=819.17 mA, S4=819.17 mA
+Moving servos (us): 2030
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+Moving servos (us): 2020
+Moving servos (us): 2010
+Moving servos (us): 2000
+Moving servos (us): 1990
+Moving servos (us): 1980
+Moving servos (us): 1970
+Moving servos (us): 1960
+Moving servos (us): 1950
+Moving servos (us): 1940
+Moving servos (us): 1930
+Moving servos (us): 1920
+Moving servos (us): 1910
+Moving servos (us): 1900
+Moving servos (us): 1890
+Moving servos (us): 1880
+Moving servos (us): 1870
+Moving servos (us): 1860
+Moving servos (us): 1850
+Moving servos (us): 1840
+33969,1840,S0=730.15 mA, S1=29.67 mA, S2=260.38 mA, S3=819.17 mA, S4=819.17 mA
+Moving servos (us): 1830
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+Moving servos (us): 1820
+Moving servos (us): 1810
+Moving servos (us): 1800
+Moving servos (us): 1790
+Moving servos (us): 1780
+Moving servos (us): 1770
+Moving servos (us): 1760
+Moving servos (us): 1750
+Moving servos (us): 1740
+Moving servos (us): 1730
+Moving servos (us): 1720
+Moving servos (us): 1710
+Moving servos (us): 1700
+Moving servos (us): 1690
+Moving servos (us): 1680
+Moving servos (us): 1670
+Moving servos (us): 1660
+Moving servos (us): 1650
+Moving servos (us): 1640
+34169,1640,S0=45.83 mA, S1=50.97 mA, S2=177.70 mA, S3=644.15 mA, S4=76.65 mA
+Moving servos (us): 1630
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+Moving servos (us): 1620
+Moving servos (us): 1610
+Moving servos (us): 1600
+Moving servos (us): 1590
+Moving servos (us): 1580
+Moving servos (us): 1570
+Moving servos (us): 1560
+Moving servos (us): 1550
+Moving servos (us): 1540
+Moving servos (us): 1530
+Moving servos (us): 1520
+Moving servos (us): 1510
+Moving servos (us): 1500
+Moving servos (us): 1490
+Moving servos (us): 1480
+Moving servos (us): 1470
+Moving servos (us): 1460
+Moving servos (us): 1450
+Moving servos (us): 1440
+34369,1440,S0=86.75 mA, S1=34.75 mA, S2=138.45 mA, S3=50.75 mA, S4=34.80 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+Moving servos (us): 1430
+Moving servos (us): 1420
+Moving servos (us): 1410
+Moving servos (us): 1400
+Moving servos (us): 1390
+Moving servos (us): 1380
+Moving servos (us): 1370
+Moving servos (us): 1360
+Moving servos (us): 1350
+Moving servos (us): 1340
+Moving servos (us): 1330
+Moving servos (us): 1320
+Moving servos (us): 1310
+Moving servos (us): 1300
+Moving servos (us): 1290
+Moving servos (us): 1280
+Moving servos (us): 1270
+Moving servos (us): 1260
+Moving servos (us): 1250
+34569,1250,S0=36.63 mA, S1=25.32 mA, S2=201.52 mA, S3=663.58 mA, S4=39.65 mA
+Moving servos (us): 1240
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+Moving servos (us): 1230
+Moving servos (us): 1220
+Moving servos (us): 1210
+Moving servos (us): 1200
+Moving servos (us): 1190
+Moving servos (us): 1180
+Moving servos (us): 1170
+Moving servos (us): 1160
+Moving servos (us): 1150
+Moving servos (us): 1140
+Moving servos (us): 1130
+Moving servos (us): 1120
+Moving servos (us): 1110
+Moving servos (us): 1100
+Moving servos (us): 1090
+Moving servos (us): 1080
+Moving servos (us): 1070
+Moving servos (us): 1060
+Moving servos (us): 1050
+34769,1050,S0=170.55 mA, S1=749.58 mA, S2=337.45 mA, S3=261.00 mA, S4=286.95 mA
+Moving servos (us): 1040
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+Moving servos (us): 1030
+Moving servos (us): 1020
+Moving servos (us): 1010
+Moving servos (us): 1000
+Moving servos (us): 990
+Moving servos (us): 980
+Moving servos (us): 970
+Moving servos (us): 960
+Moving servos (us): 950
+Moving servos (us): 940
+Moving servos (us): 930
+Moving servos (us): 920
+Moving servos (us): 910
+Moving servos (us): 900
+Moving servos (us): 890
+Moving servos (us): 880
+Moving servos (us): 870
+Moving servos (us): 860
+Moving servos (us): 850
+34969,850,S0=60.22 mA, S1=193.43 mA, S2=209.58 mA, S3=178.27 mA, S4=257.85 mA
+Moving servos (us): 840
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+Moving servos (us): 830
+Moving servos (us): 820
+Moving servos (us): 810
+Moving servos (us): 800
+Moving servos (us): 790
+Moving servos (us): 780
+Moving servos (us): 770
+Moving servos (us): 760
+Moving servos (us): 750
+Moving servos (us): 740
+Moving servos (us): 730
+Moving servos (us): 720
+Moving servos (us): 710
+Moving servos (us): 700
+Moving servos (us): 690
+Moving servos (us): 680
+Moving servos (us): 670
+Moving servos (us): 660
+Moving servos (us): 650
+35169,650,S0=112.50 mA, S1=65.87 mA, S2=350.98 mA, S3=239.38 mA, S4=56.58 mA
+FSR Live: PB0=2.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+Moving servos (us): 640
+Moving servos (us): 630
+Moving servos (us): 620
+Moving servos (us): 610
+Moving servos (us): 600
+Moving servos (us): 590
+Moving servos (us): 580
+Moving servos (us): 570
+Moving servos (us): 560
+Moving servos (us): 550
+Moving servos (us): 540
+Moving servos (us): 530
+Moving servos (us): 520
+Moving servos (us): 510
+Moving servos (us): 500
+35369,500,S0=188.20 mA, S1=241.83 mA, S2=149.25 mA, S3=201.48 mA, S4=221.05 mA
+FSR Live: PB0=31.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+35569,500,S0=231.20 mA, S1=108.87 mA, S2=188.70 mA, S3=819.17 mA, S4=106.52 mA
+FSR Live: PB0=31.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+35769,500,S0=144.65 mA, S1=99.93 mA, S2=181.80 mA, S3=392.77 mA, S4=124.95 mA
+FSR Live: PB0=31.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+35969,500,S0=143.75 mA, S1=52.78 mA, S2=187.35 mA, S3=46.30 mA, S4=49.72 mA
+FSR Live: PB0=30.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+36169,500,S0=123.00 mA, S1=119.55 mA, S2=186.48 mA, S3=48.03 mA, S4=109.90 mA
+FSR Live: PB0=31.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=1.00, PA0=0.00
+36369,500,S0=78.37 mA, S1=119.12 mA, S2=185.63 mA, S3=139.10 mA, S4=67.35 mA
+FSR Live: PB0=30.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+36569,500,S0=121.65 mA, S1=122.37 mA, S2=185.95 mA, S3=276.92 mA, S4=109.55 mA
+FSR Live: PB0=30.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+36769,500,S0=120.27 mA, S1=121.02 mA, S2=190.23 mA, S3=140.08 mA, S4=111.80 mA
+FSR Live: PB0=30.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=1.00, PA2=0.00, PA1=0.00, PA0=0.00
+36969,500,S0=126.75 mA, S1=120.87 mA, S2=189.25 mA, S3=140.48 mA, S4=103.65 mA
+FSR Live: PB0=30.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+37169,500,S0=120.45 mA, S1=51.63 mA, S2=187.38 mA, S3=121.05 mA, S4=67.95 mA
+FSR Live: PB0=30.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=1.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+37369,500,S0=120.40 mA, S1=121.55 mA, S2=187.05 mA, S3=129.68 mA, S4=101.97 mA
+FSR Live: PB0=30.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+37569,500,S0=118.55 mA, S1=118.30 mA, S2=186.77 mA, S3=234.83 mA, S4=161.60 mA
+FSR Live: PB0=30.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=1.00, PA2=1.00, PA1=1.00, PA0=0.00
+37769,500,S0=118.85 mA, S1=125.40 mA, S2=187.80 mA, S3=122.52 mA, S4=100.12 mA
+FSR Live: PB0=29.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+37969,500,S0=117.20 mA, S1=87.37 mA, S2=188.70 mA, S3=121.97 mA, S4=63.88 mA
+FSR Live: PB0=29.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=3.00, PA0=0.00
+38169,500,S0=77.22 mA, S1=122.60 mA, S2=186.55 mA, S3=97.75 mA, S4=62.35 mA
+FSR Live: PB0=29.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+38369,500,S0=161.90 mA, S1=120.10 mA, S2=186.93 mA, S3=122.15 mA, S4=96.55 mA
+FSR Live: PB0=28.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+38569,500,S0=115.72 mA, S1=119.43 mA, S2=185.75 mA, S3=50.45 mA, S4=66.10 mA
+FSR Live: PB0=26.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+38769,500,S0=171.93 mA, S1=119.85 mA, S2=186.58 mA, S3=108.60 mA, S4=63.30 mA
+FSR Live: PB0=28.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+38969,500,S0=49.95 mA, S1=78.15 mA, S2=186.65 mA, S3=119.07 mA, S4=100.32 mA
+FSR Live: PB0=26.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+39169,500,S0=117.20 mA, S1=118.15 mA, S2=183.33 mA, S3=120.45 mA, S4=95.37 mA
+FSR Live: PB0=21.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+39369,500,S0=116.43 mA, S1=174.52 mA, S2=182.58 mA, S3=112.60 mA, S4=99.72 mA
+FSR Live: PB0=24.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+39569,500,S0=114.15 mA, S1=118.50 mA, S2=183.33 mA, S3=111.93 mA, S4=96.87 mA
+FSR Live: PB0=25.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+39769,500,S0=411.08 mA, S1=174.55 mA, S2=185.08 mA, S3=119.18 mA, S4=102.95 mA
+FSR Live: PB0=25.00, PA7=0.00, PA6=2.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+39969,500,S0=119.65 mA, S1=121.97 mA, S2=183.93 mA, S3=100.15 mA, S4=101.25 mA
+FSR Live: PB0=22.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+40169,500,S0=116.02 mA, S1=119.40 mA, S2=184.88 mA, S3=232.58 mA, S4=98.97 mA
+FSR Live: PB0=21.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+40369,500,S0=172.83 mA, S1=113.82 mA, S2=185.43 mA, S3=116.90 mA, S4=99.68 mA
+FSR Live: PB0=25.00, PA7=0.00, PA6=2.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+Received: 1
+Moving servos (us): 500
+Enter next command:
+Moving servos (us): 510
+Moving servos (us): 520
+Moving servos (us): 530
+Moving servos (us): 540
+Moving servos (us): 550
+Moving servos (us): 560
+Moving servos (us): 570
+Moving servos (us): 580
+Moving servos (us): 590
+Moving servos (us): 600
+Moving servos (us): 610
+Moving servos (us): 620
+Moving servos (us): 630
+Moving servos (us): 640
+40569,640,S0=40.25 mA, S1=43.75 mA, S2=74.07 mA, S3=52.28 mA, S4=10.13 mA
+FSR Live: PB0=27.00, PA7=0.00, PA6=2.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+Moving servos (us): 650
+Moving servos (us): 660
+Moving servos (us): 670
+Moving servos (us): 680
+Moving servos (us): 690
+Moving servos (us): 700
+Moving servos (us): 710
+Moving servos (us): 720
+Moving servos (us): 730
+Moving servos (us): 740
+Moving servos (us): 750
+Moving servos (us): 760
+Moving servos (us): 770
+Moving servos (us): 780
+Moving servos (us): 790
+Moving servos (us): 800
+Moving servos (us): 810
+Moving servos (us): 820
+Moving servos (us): 830
+40769,830,S0=38.78 mA, S1=39.80 mA, S2=48.35 mA, S3=32.97 mA, S4=49.43 mA
+Moving servos (us): 840
+FSR Live: PB0=27.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+Moving servos (us): 850
+Moving servos (us): 860
+Moving servos (us): 870
+Moving servos (us): 880
+Moving servos (us): 890
+Moving servos (us): 900
+Moving servos (us): 910
+Moving servos (us): 920
+Moving servos (us): 930
+Moving servos (us): 940
+Moving servos (us): 950
+Moving servos (us): 960
+Moving servos (us): 970
+Moving servos (us): 980
+Moving servos (us): 990
+Moving servos (us): 1000
+Moving servos (us): 1010
+Moving servos (us): 1020
+Moving servos (us): 1030
+40969,1030,S0=33.30 mA, S1=136.58 mA, S2=122.37 mA, S3=34.70 mA, S4=38.72 mA
+Moving servos (us): 1040
+FSR Live: PB0=25.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+Moving servos (us): 1050
+Moving servos (us): 1060
+Moving servos (us): 1070
+Moving servos (us): 1080
+Moving servos (us): 1090
+Moving servos (us): 1100
+Moving servos (us): 1110
+Moving servos (us): 1120
+Moving servos (us): 1130
+Moving servos (us): 1140
+Moving servos (us): 1150
+Moving servos (us): 1160
+Moving servos (us): 1170
+Moving servos (us): 1180
+Moving servos (us): 1190
+Moving servos (us): 1200
+Moving servos (us): 1210
+Moving servos (us): 1220
+Moving servos (us): 1230
+41169,1230,S0=40.72 mA, S1=34.72 mA, S2=78.87 mA, S3=44.72 mA, S4=34.30 mA
+Moving servos (us): 1240
+FSR Live: PB0=29.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+Moving servos (us): 1250
+Moving servos (us): 1260
+Moving servos (us): 1270
+Moving servos (us): 1280
+Moving servos (us): 1290
+Moving servos (us): 1300
+Moving servos (us): 1310
+Moving servos (us): 1320
+Moving servos (us): 1330
+Moving servos (us): 1340
+Moving servos (us): 1350
+Moving servos (us): 1360
+Moving servos (us): 1370
+Moving servos (us): 1380
+Moving servos (us): 1390
+Moving servos (us): 1400
+Moving servos (us): 1410
+Moving servos (us): 1420
+Moving servos (us): 1430
+41369,1430,S0=35.22 mA, S1=47.50 mA, S2=84.00 mA, S3=83.68 mA, S4=61.00 mA
+Moving servos (us): 1440
+FSR Live: PB0=30.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+Moving servos (us): 1450
+Moving servos (us): 1460
+Moving servos (us): 1470
+Moving servos (us): 1480
+Moving servos (us): 1490
+Moving servos (us): 1500
+Moving servos (us): 1510
+Moving servos (us): 1520
+Moving servos (us): 1530
+Moving servos (us): 1540
+Moving servos (us): 1550
+Moving servos (us): 1560
+Moving servos (us): 1570
+Moving servos (us): 1580
+Moving servos (us): 1590
+Moving servos (us): 1600
+Moving servos (us): 1610
+Moving servos (us): 1620
+Moving servos (us): 1630
+41569,1630,S0=144.75 mA, S1=36.78 mA, S2=92.18 mA, S3=91.32 mA, S4=69.32 mA
+Moving servos (us): 1640
+FSR Live: PB0=2.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=1.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+Moving servos (us): 1650
+Moving servos (us): 1660
+Moving servos (us): 1670
+Moving servos (us): 1680
+Moving servos (us): 1690
+Moving servos (us): 1700
+Moving servos (us): 1710
+Moving servos (us): 1720
+Moving servos (us): 1730
+Moving servos (us): 1740
+Moving servos (us): 1750
+Moving servos (us): 1760
+Moving servos (us): 1770
+Moving servos (us): 1780
+Moving servos (us): 1790
+Moving servos (us): 1800
+Moving servos (us): 1810
+Moving servos (us): 1820
+Moving servos (us): 1830
+41769,1830,S0=50.18 mA, S1=38.55 mA, S2=140.40 mA, S3=33.68 mA, S4=819.17 mA
+Moving servos (us): 1840
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+Moving servos (us): 1850
+Moving servos (us): 1860
+Moving servos (us): 1870
+Moving servos (us): 1880
+Moving servos (us): 1890
+Moving servos (us): 1900
+Moving servos (us): 1910
+Moving servos (us): 1920
+Moving servos (us): 1930
+Moving servos (us): 1940
+Moving servos (us): 1950
+Moving servos (us): 1960
+Moving servos (us): 1970
+Moving servos (us): 1980
+Moving servos (us): 1990
+Moving servos (us): 2000
+Moving servos (us): 2010
+Moving servos (us): 2020
+Moving servos (us): 2030
+41969,2030,S0=58.03 mA, S1=34.35 mA, S2=180.95 mA, S3=118.35 mA, S4=380.45 mA
+Moving servos (us): 2040
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+Moving servos (us): 2050
+Moving servos (us): 2060
+Moving servos (us): 2070
+Moving servos (us): 2080
+Moving servos (us): 2090
+Moving servos (us): 2100
+Moving servos (us): 2110
+Moving servos (us): 2120
+Moving servos (us): 2130
+Moving servos (us): 2140
+Moving servos (us): 2150
+Moving servos (us): 2160
+Moving servos (us): 2170
+Moving servos (us): 2180
+Moving servos (us): 2190
+Moving servos (us): 2200
+Moving servos (us): 2210
+Moving servos (us): 2220
+Moving servos (us): 2230
+42169,2230,S0=819.17 mA, S1=42.93 mA, S2=190.50 mA, S3=819.17 mA, S4=819.17 mA
+Moving servos (us): 2240
+FSR Live: PB0=1.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+Moving servos (us): 2250
+Moving servos (us): 2260
+Moving servos (us): 2270
+Moving servos (us): 2280
+Moving servos (us): 2290
+Moving servos (us): 2300
+Moving servos (us): 2310
+Moving servos (us): 2320
+Moving servos (us): 2330
+Moving servos (us): 2340
+Moving servos (us): 2350
+Moving servos (us): 2360
+Moving servos (us): 2370
+Moving servos (us): 2380
+Moving servos (us): 2390
+Moving servos (us): 2400
+42369,2400,S0=95.15 mA, S1=50.83 mA, S2=92.70 mA, S3=42.30 mA, S4=819.17 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=1.00, PA2=2.00, PA1=0.00, PA0=0.00
+42569,2400,S0=43.35 mA, S1=90.97 mA, S2=56.70 mA, S3=45.75 mA, S4=67.57 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+42769,2400,S0=58.80 mA, S1=79.05 mA, S2=57.45 mA, S3=63.85 mA, S4=54.05 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+42969,2400,S0=56.75 mA, S1=73.90 mA, S2=57.47 mA, S3=46.90 mA, S4=54.05 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+43169,2400,S0=57.63 mA, S1=103.07 mA, S2=57.85 mA, S3=47.47 mA, S4=54.25 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+43369,2400,S0=56.22 mA, S1=69.25 mA, S2=57.95 mA, S3=52.00 mA, S4=52.80 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+43569,2400,S0=53.90 mA, S1=73.60 mA, S2=55.60 mA, S3=64.27 mA, S4=53.88 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+43769,2400,S0=49.25 mA, S1=50.85 mA, S2=56.25 mA, S3=60.18 mA, S4=50.38 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+43969,2400,S0=52.72 mA, S1=62.22 mA, S2=56.15 mA, S3=63.10 mA, S4=51.60 mA
+FSR Live: PB0=1.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+44169,2400,S0=53.95 mA, S1=70.95 mA, S2=55.65 mA, S3=62.28 mA, S4=41.78 mA
+FSR Live: PB0=1.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+44369,2400,S0=52.68 mA, S1=71.12 mA, S2=56.45 mA, S3=47.53 mA, S4=51.22 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+44569,2400,S0=52.65 mA, S1=69.97 mA, S2=55.65 mA, S3=49.28 mA, S4=51.88 mA
+FSR Live: PB0=1.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+44769,2400,S0=53.70 mA, S1=69.10 mA, S2=55.78 mA, S3=47.28 mA, S4=51.33 mA
+FSR Live: PB0=1.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=1.00, PA2=0.00, PA1=5.00, PA0=0.00
+44969,2400,S0=52.68 mA, S1=69.22 mA, S2=56.15 mA, S3=46.93 mA, S4=51.70 mA
+FSR Live: PB0=3.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=1.00, PA1=0.00, PA0=0.00
+45169,2400,S0=53.80 mA, S1=71.55 mA, S2=56.30 mA, S3=40.45 mA, S4=68.75 mA
+FSR Live: PB0=1.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+45369,2400,S0=43.40 mA, S1=72.65 mA, S2=56.13 mA, S3=47.58 mA, S4=51.20 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+45569,2400,S0=42.90 mA, S1=50.85 mA, S2=56.63 mA, S3=45.97 mA, S4=75.35 mA
+FSR Live: PB0=1.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+45769,2400,S0=53.80 mA, S1=97.52 mA, S2=56.83 mA, S3=46.35 mA, S4=51.55 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+45969,2400,S0=53.65 mA, S1=63.50 mA, S2=55.63 mA, S3=47.15 mA, S4=51.30 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+46169,2400,S0=54.58 mA, S1=71.22 mA, S2=56.78 mA, S3=46.60 mA, S4=51.58 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+46369,2400,S0=53.58 mA, S1=65.10 mA, S2=56.00 mA, S3=46.33 mA, S4=52.80 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+46569,2400,S0=59.53 mA, S1=51.13 mA, S2=56.68 mA, S3=60.85 mA, S4=52.55 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+46769,2400,S0=42.33 mA, S1=55.88 mA, S2=56.25 mA, S3=46.70 mA, S4=51.75 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+46969,2400,S0=43.13 mA, S1=67.12 mA, S2=55.72 mA, S3=46.38 mA, S4=52.85 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+47169,2400,S0=53.30 mA, S1=63.20 mA, S2=56.25 mA, S3=46.80 mA, S4=51.95 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+47369,2400,S0=73.30 mA, S1=67.02 mA, S2=55.78 mA, S3=47.70 mA, S4=52.03 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=1.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+47569,2400,S0=41.75 mA, S1=64.52 mA, S2=56.65 mA, S3=46.03 mA, S4=51.75 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+47769,2400,S0=53.75 mA, S1=65.02 mA, S2=56.13 mA, S3=46.35 mA, S4=51.45 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+47969,2400,S0=53.40 mA, S1=68.20 mA, S2=56.72 mA, S3=41.47 mA, S4=51.35 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+48169,2400,S0=50.90 mA, S1=64.57 mA, S2=56.60 mA, S3=62.88 mA, S4=50.30 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+48369,2400,S0=52.63 mA, S1=100.07 mA, S2=55.50 mA, S3=39.08 mA, S4=50.50 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+48569,2400,S0=53.53 mA, S1=63.18 mA, S2=56.58 mA, S3=61.95 mA, S4=52.88 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+48769,2400,S0=42.68 mA, S1=65.07 mA, S2=55.95 mA, S3=39.43 mA, S4=51.20 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+48969,2400,S0=74.50 mA, S1=66.82 mA, S2=56.83 mA, S3=35.83 mA, S4=52.10 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+49169,2400,S0=53.58 mA, S1=66.02 mA, S2=57.05 mA, S3=35.93 mA, S4=50.20 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+49369,2400,S0=49.78 mA, S1=63.18 mA, S2=56.15 mA, S3=46.97 mA, S4=51.35 mA
+FSR Live: PB0=1.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+49569,2400,S0=52.93 mA, S1=66.97 mA, S2=56.33 mA, S3=62.38 mA, S4=41.40 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+49769,2400,S0=70.25 mA, S1=65.20 mA, S2=56.78 mA, S3=46.30 mA, S4=42.45 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+49969,2400,S0=47.05 mA, S1=61.90 mA, S2=56.55 mA, S3=62.38 mA, S4=51.58 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+50169,2400,S0=35.85 mA, S1=66.75 mA, S2=55.97 mA, S3=52.03 mA, S4=56.08 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+50369,2400,S0=51.90 mA, S1=63.70 mA, S2=56.80 mA, S3=35.93 mA, S4=51.65 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+50569,2400,S0=75.72 mA, S1=99.30 mA, S2=55.47 mA, S3=47.03 mA, S4=51.88 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+50769,2400,S0=52.80 mA, S1=64.22 mA, S2=56.18 mA, S3=39.72 mA, S4=51.40 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=1.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+50969,2400,S0=42.53 mA, S1=64.82 mA, S2=56.50 mA, S3=46.90 mA, S4=49.97 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+51169,2400,S0=37.18 mA, S1=66.02 mA, S2=56.58 mA, S3=46.15 mA, S4=51.88 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+51369,2400,S0=75.35 mA, S1=64.55 mA, S2=55.58 mA, S3=62.00 mA, S4=51.45 mA
+FSR Live: PB0=1.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+51569,2400,S0=55.00 mA, S1=64.02 mA, S2=56.78 mA, S3=42.43 mA, S4=50.20 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+51769,2400,S0=42.20 mA, S1=64.82 mA, S2=56.43 mA, S3=86.62 mA, S4=51.83 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+51969,2400,S0=52.70 mA, S1=64.70 mA, S2=57.03 mA, S3=59.10 mA, S4=51.28 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+52169,2400,S0=72.70 mA, S1=62.43 mA, S2=56.55 mA, S3=39.05 mA, S4=51.25 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+52369,2400,S0=74.75 mA, S1=63.63 mA, S2=57.03 mA, S3=47.03 mA, S4=35.43 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+52569,2400,S0=50.88 mA, S1=63.88 mA, S2=56.13 mA, S3=60.80 mA, S4=73.20 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+52769,2400,S0=50.90 mA, S1=62.55 mA, S2=56.30 mA, S3=46.45 mA, S4=51.72 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+52969,2400,S0=53.00 mA, S1=64.02 mA, S2=56.60 mA, S3=52.33 mA, S4=52.78 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+53169,2400,S0=50.83 mA, S1=61.47 mA, S2=56.68 mA, S3=46.93 mA, S4=72.35 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+53369,2400,S0=41.65 mA, S1=65.00 mA, S2=56.72 mA, S3=46.95 mA, S4=42.03 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+53569,2400,S0=50.78 mA, S1=59.68 mA, S2=57.03 mA, S3=47.08 mA, S4=52.25 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+53769,2400,S0=51.58 mA, S1=62.22 mA, S2=56.55 mA, S3=47.00 mA, S4=52.78 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+53969,2400,S0=50.05 mA, S1=88.97 mA, S2=56.80 mA, S3=46.85 mA, S4=51.00 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+54169,2400,S0=48.28 mA, S1=63.33 mA, S2=56.93 mA, S3=47.35 mA, S4=52.38 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+54369,2400,S0=51.20 mA, S1=63.38 mA, S2=56.68 mA, S3=46.55 mA, S4=64.68 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+54569,2400,S0=52.55 mA, S1=63.08 mA, S2=56.35 mA, S3=46.18 mA, S4=50.47 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+54769,2400,S0=50.83 mA, S1=61.60 mA, S2=56.70 mA, S3=47.28 mA, S4=51.30 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+54969,2400,S0=53.85 mA, S1=65.10 mA, S2=55.95 mA, S3=46.05 mA, S4=51.72 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+55169,2400,S0=52.10 mA, S1=49.28 mA, S2=56.45 mA, S3=47.03 mA, S4=52.60 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+55369,2400,S0=55.53 mA, S1=61.58 mA, S2=56.58 mA, S3=45.83 mA, S4=51.72 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+55569,2400,S0=52.63 mA, S1=65.20 mA, S2=56.85 mA, S3=46.93 mA, S4=50.03 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+55769,2400,S0=53.90 mA, S1=65.55 mA, S2=56.28 mA, S3=86.37 mA, S4=51.90 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+55969,2400,S0=42.03 mA, S1=64.65 mA, S2=57.05 mA, S3=47.43 mA, S4=52.78 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+56169,2400,S0=41.38 mA, S1=67.80 mA, S2=55.47 mA, S3=39.08 mA, S4=71.62 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+56369,2400,S0=51.00 mA, S1=66.37 mA, S2=64.52 mA, S3=46.90 mA, S4=69.85 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+56569,2400,S0=51.13 mA, S1=61.80 mA, S2=62.93 mA, S3=47.38 mA, S4=71.22 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+56769,2400,S0=58.35 mA, S1=63.43 mA, S2=64.40 mA, S3=47.53 mA, S4=52.30 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=1.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+56969,2400,S0=53.47 mA, S1=61.80 mA, S2=64.35 mA, S3=39.50 mA, S4=52.60 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+57169,2400,S0=42.30 mA, S1=63.68 mA, S2=63.28 mA, S3=47.38 mA, S4=70.70 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+57369,2400,S0=52.35 mA, S1=63.03 mA, S2=64.05 mA, S3=46.60 mA, S4=71.05 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+57569,2400,S0=51.15 mA, S1=64.52 mA, S2=64.07 mA, S3=62.58 mA, S4=71.35 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+57769,2400,S0=50.72 mA, S1=63.65 mA, S2=63.68 mA, S3=54.47 mA, S4=50.90 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+57969,2400,S0=52.68 mA, S1=63.95 mA, S2=63.75 mA, S3=47.58 mA, S4=42.40 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+58169,2400,S0=51.30 mA, S1=63.05 mA, S2=64.20 mA, S3=46.90 mA, S4=51.58 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+58369,2400,S0=51.43 mA, S1=63.72 mA, S2=63.28 mA, S3=47.30 mA, S4=46.78 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+58569,2400,S0=41.93 mA, S1=64.50 mA, S2=63.90 mA, S3=47.43 mA, S4=51.15 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+58769,2400,S0=51.58 mA, S1=61.60 mA, S2=64.57 mA, S3=41.80 mA, S4=52.13 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+58969,2400,S0=51.08 mA, S1=63.38 mA, S2=64.35 mA, S3=62.10 mA, S4=51.93 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+59169,2400,S0=42.35 mA, S1=63.22 mA, S2=64.45 mA, S3=39.40 mA, S4=50.08 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+59369,2400,S0=50.03 mA, S1=64.65 mA, S2=63.47 mA, S3=39.35 mA, S4=52.20 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+59569,2400,S0=51.45 mA, S1=75.68 mA, S2=63.72 mA, S3=47.10 mA, S4=52.63 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+59769,2400,S0=51.10 mA, S1=51.18 mA, S2=63.38 mA, S3=46.93 mA, S4=50.78 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+59969,2400,S0=54.53 mA, S1=62.83 mA, S2=63.15 mA, S3=46.25 mA, S4=52.88 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+60169,2400,S0=74.07 mA, S1=84.82 mA, S2=64.05 mA, S3=47.22 mA, S4=51.10 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+60369,2400,S0=73.45 mA, S1=61.33 mA, S2=64.00 mA, S3=46.18 mA, S4=70.00 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+60569,2400,S0=53.00 mA, S1=63.45 mA, S2=63.80 mA, S3=47.00 mA, S4=41.68 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+60769,2400,S0=52.83 mA, S1=62.93 mA, S2=64.25 mA, S3=46.65 mA, S4=41.25 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=1.00, PA2=0.00, PA1=0.00, PA0=0.00
+60969,2400,S0=53.08 mA, S1=64.77 mA, S2=63.78 mA, S3=46.13 mA, S4=55.97 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+61169,2400,S0=51.68 mA, S1=63.10 mA, S2=64.20 mA, S3=46.90 mA, S4=68.90 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+61369,2400,S0=74.27 mA, S1=63.47 mA, S2=63.60 mA, S3=45.78 mA, S4=42.00 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+61569,2400,S0=44.22 mA, S1=61.65 mA, S2=63.68 mA, S3=47.03 mA, S4=51.63 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=1.00
+61769,2400,S0=51.00 mA, S1=63.63 mA, S2=64.45 mA, S3=47.33 mA, S4=52.88 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+61969,2400,S0=42.15 mA, S1=64.85 mA, S2=64.20 mA, S3=62.10 mA, S4=50.18 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+62169,2400,S0=52.03 mA, S1=64.37 mA, S2=64.37 mA, S3=47.22 mA, S4=51.20 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+62369,2400,S0=41.50 mA, S1=61.58 mA, S2=54.90 mA, S3=47.10 mA, S4=51.33 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+62569,2400,S0=52.63 mA, S1=51.53 mA, S2=54.55 mA, S3=46.28 mA, S4=52.58 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+62769,2400,S0=52.85 mA, S1=62.25 mA, S2=54.78 mA, S3=48.20 mA, S4=70.30 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+62969,2400,S0=52.60 mA, S1=64.05 mA, S2=55.05 mA, S3=46.45 mA, S4=50.20 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+63169,2400,S0=52.55 mA, S1=63.50 mA, S2=54.58 mA, S3=47.50 mA, S4=51.68 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+63369,2400,S0=38.00 mA, S1=63.35 mA, S2=54.22 mA, S3=46.18 mA, S4=52.53 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+63569,2400,S0=41.63 mA, S1=63.15 mA, S2=53.93 mA, S3=61.47 mA, S4=52.70 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+63769,2400,S0=51.90 mA, S1=65.90 mA, S2=54.72 mA, S3=47.45 mA, S4=52.15 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+63969,2400,S0=52.93 mA, S1=122.50 mA, S2=54.28 mA, S3=46.43 mA, S4=52.15 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+64169,2400,S0=51.20 mA, S1=55.88 mA, S2=54.75 mA, S3=46.90 mA, S4=51.38 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+64369,2400,S0=51.93 mA, S1=63.18 mA, S2=54.60 mA, S3=39.30 mA, S4=42.15 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+64569,2400,S0=52.78 mA, S1=62.10 mA, S2=54.50 mA, S3=78.87 mA, S4=97.90 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+64769,2400,S0=51.40 mA, S1=64.27 mA, S2=54.58 mA, S3=46.40 mA, S4=51.58 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+64969,2400,S0=52.45 mA, S1=61.45 mA, S2=54.80 mA, S3=61.70 mA, S4=51.20 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+65169,2400,S0=51.40 mA, S1=65.12 mA, S2=54.88 mA, S3=43.00 mA, S4=71.55 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+65369,2400,S0=50.05 mA, S1=60.65 mA, S2=54.47 mA, S3=46.20 mA, S4=50.93 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+65569,2400,S0=50.05 mA, S1=64.25 mA, S2=54.88 mA, S3=46.85 mA, S4=51.18 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=1.00, PA1=0.00, PA0=0.00
+65769,2400,S0=51.47 mA, S1=63.33 mA, S2=54.90 mA, S3=62.47 mA, S4=51.45 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+65969,2400,S0=52.80 mA, S1=62.93 mA, S2=54.03 mA, S3=47.38 mA, S4=52.83 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+66169,2400,S0=51.00 mA, S1=64.30 mA, S2=54.03 mA, S3=46.97 mA, S4=52.88 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=1.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+66369,2400,S0=51.95 mA, S1=63.63 mA, S2=53.88 mA, S3=46.22 mA, S4=51.58 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+66569,2400,S0=52.60 mA, S1=63.25 mA, S2=54.78 mA, S3=47.33 mA, S4=50.55 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+66769,2400,S0=51.88 mA, S1=61.90 mA, S2=54.55 mA, S3=51.63 mA, S4=51.97 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+66969,2400,S0=53.33 mA, S1=63.78 mA, S2=54.65 mA, S3=62.28 mA, S4=51.13 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+67169,2400,S0=51.95 mA, S1=63.47 mA, S2=54.58 mA, S3=48.30 mA, S4=52.95 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+67369,2400,S0=51.13 mA, S1=63.40 mA, S2=54.53 mA, S3=47.03 mA, S4=51.60 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+67569,2400,S0=74.32 mA, S1=62.18 mA, S2=54.05 mA, S3=46.20 mA, S4=51.65 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+67769,2400,S0=51.05 mA, S1=59.88 mA, S2=54.25 mA, S3=62.35 mA, S4=51.35 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+67969,2400,S0=52.55 mA, S1=65.07 mA, S2=54.97 mA, S3=45.90 mA, S4=51.63 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+68169,2400,S0=53.40 mA, S1=49.25 mA, S2=54.25 mA, S3=24.20 mA, S4=51.00 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=1.00, PA1=0.00, PA0=0.00
+68369,2400,S0=51.50 mA, S1=61.85 mA, S2=53.90 mA, S3=62.03 mA, S4=51.70 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+68569,2400,S0=52.83 mA, S1=64.85 mA, S2=54.70 mA, S3=46.58 mA, S4=54.30 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+68769,2400,S0=75.22 mA, S1=61.78 mA, S2=54.53 mA, S3=46.68 mA, S4=73.93 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+68969,2400,S0=52.58 mA, S1=63.60 mA, S2=55.18 mA, S3=47.30 mA, S4=54.75 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+69169,2400,S0=51.22 mA, S1=63.88 mA, S2=54.93 mA, S3=39.40 mA, S4=52.25 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+69369,2400,S0=51.18 mA, S1=63.40 mA, S2=54.53 mA, S3=46.55 mA, S4=51.30 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+69569,2400,S0=53.18 mA, S1=67.00 mA, S2=54.72 mA, S3=46.13 mA, S4=52.35 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+69769,2400,S0=51.20 mA, S1=64.80 mA, S2=54.70 mA, S3=46.78 mA, S4=41.03 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=1.00, PA2=0.00, PA1=0.00, PA0=0.00
+69969,2400,S0=50.13 mA, S1=61.70 mA, S2=53.90 mA, S3=46.97 mA, S4=51.28 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+70169,2400,S0=51.20 mA, S1=63.97 mA, S2=54.88 mA, S3=46.30 mA, S4=51.50 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+70369,2400,S0=51.50 mA, S1=61.68 mA, S2=54.33 mA, S3=43.40 mA, S4=52.30 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+70569,2400,S0=51.15 mA, S1=63.88 mA, S2=55.03 mA, S3=46.35 mA, S4=93.65 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+70769,2400,S0=51.05 mA, S1=64.90 mA, S2=54.10 mA, S3=47.18 mA, S4=70.57 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+70969,2400,S0=51.08 mA, S1=65.18 mA, S2=54.50 mA, S3=47.25 mA, S4=51.30 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=1.00, PA2=0.00, PA1=0.00, PA0=0.00
+71169,2400,S0=50.88 mA, S1=65.02 mA, S2=54.95 mA, S3=47.47 mA, S4=50.63 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=1.00, PA1=3.00, PA0=0.00
+71369,2400,S0=52.85 mA, S1=63.18 mA, S2=53.88 mA, S3=62.40 mA, S4=51.40 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+71569,2400,S0=43.95 mA, S1=65.35 mA, S2=55.22 mA, S3=47.47 mA, S4=51.38 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+71769,2400,S0=49.20 mA, S1=61.60 mA, S2=54.28 mA, S3=62.68 mA, S4=52.97 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+71969,2400,S0=52.83 mA, S1=63.68 mA, S2=55.00 mA, S3=46.22 mA, S4=50.53 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+72169,2400,S0=53.28 mA, S1=63.28 mA, S2=54.83 mA, S3=62.60 mA, S4=51.70 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+72369,2400,S0=43.63 mA, S1=64.00 mA, S2=54.85 mA, S3=63.80 mA, S4=51.38 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+72569,2400,S0=51.10 mA, S1=47.35 mA, S2=55.03 mA, S3=59.68 mA, S4=59.35 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=1.00, PA2=0.00, PA1=0.00, PA0=0.00
+72769,2400,S0=50.80 mA, S1=63.75 mA, S2=54.60 mA, S3=39.47 mA, S4=51.13 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+72969,2400,S0=51.83 mA, S1=47.78 mA, S2=54.65 mA, S3=43.28 mA, S4=52.63 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+73169,2400,S0=51.45 mA, S1=63.63 mA, S2=54.75 mA, S3=39.18 mA, S4=61.65 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+73369,2400,S0=51.70 mA, S1=65.07 mA, S2=54.97 mA, S3=47.90 mA, S4=52.85 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+73569,2400,S0=51.18 mA, S1=63.63 mA, S2=55.00 mA, S3=47.22 mA, S4=53.43 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+73769,2400,S0=52.00 mA, S1=63.10 mA, S2=54.85 mA, S3=47.63 mA, S4=52.20 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+73969,2400,S0=50.40 mA, S1=63.28 mA, S2=54.40 mA, S3=46.55 mA, S4=51.40 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+74169,2400,S0=51.10 mA, S1=63.28 mA, S2=54.95 mA, S3=62.38 mA, S4=51.93 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+74369,2400,S0=51.05 mA, S1=63.58 mA, S2=55.00 mA, S3=42.72 mA, S4=50.38 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+74569,2400,S0=51.78 mA, S1=63.25 mA, S2=55.05 mA, S3=39.78 mA, S4=42.75 mA
+FSR Live: PB0=0.00, PA7=1.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+74769,2400,S0=52.83 mA, S1=64.25 mA, S2=54.15 mA, S3=46.20 mA, S4=42.03 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+74969,2400,S0=51.20 mA, S1=63.47 mA, S2=54.22 mA, S3=46.05 mA, S4=52.88 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+75169,2400,S0=53.53 mA, S1=61.58 mA, S2=55.20 mA, S3=46.90 mA, S4=50.93 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+75369,2400,S0=51.08 mA, S1=61.78 mA, S2=54.33 mA, S3=46.08 mA, S4=52.40 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+75569,2400,S0=52.83 mA, S1=63.45 mA, S2=54.25 mA, S3=46.53 mA, S4=50.85 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=1.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+75769,2400,S0=51.43 mA, S1=61.58 mA, S2=54.85 mA, S3=48.85 mA, S4=51.28 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=1.00, PA2=0.00, PA1=0.00, PA0=0.00
+75969,2400,S0=50.88 mA, S1=63.40 mA, S2=54.75 mA, S3=46.38 mA, S4=51.53 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+76169,2400,S0=42.83 mA, S1=65.20 mA, S2=53.75 mA, S3=47.28 mA, S4=51.55 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+76369,2400,S0=50.53 mA, S1=61.50 mA, S2=54.40 mA, S3=39.33 mA, S4=73.25 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+76569,2400,S0=53.83 mA, S1=65.20 mA, S2=54.13 mA, S3=46.00 mA, S4=52.78 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+76769,2400,S0=51.47 mA, S1=64.87 mA, S2=54.85 mA, S3=63.18 mA, S4=52.68 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+76969,2400,S0=51.60 mA, S1=63.38 mA, S2=54.03 mA, S3=46.18 mA, S4=44.90 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=1.00, PA1=0.00, PA0=0.00
+77169,2400,S0=51.80 mA, S1=61.53 mA, S2=54.40 mA, S3=62.43 mA, S4=51.05 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+77369,2400,S0=74.37 mA, S1=62.63 mA, S2=54.30 mA, S3=46.78 mA, S4=50.13 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+77569,2400,S0=52.45 mA, S1=61.60 mA, S2=54.28 mA, S3=46.25 mA, S4=64.15 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+77769,2400,S0=51.25 mA, S1=47.83 mA, S2=54.33 mA, S3=46.15 mA, S4=51.58 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+77969,2400,S0=52.72 mA, S1=65.50 mA, S2=54.95 mA, S3=61.83 mA, S4=51.55 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+78169,2400,S0=52.65 mA, S1=65.25 mA, S2=54.88 mA, S3=46.10 mA, S4=50.90 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+78369,2400,S0=57.68 mA, S1=63.55 mA, S2=54.22 mA, S3=45.33 mA, S4=51.35 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=1.00, PA0=0.00
+78569,2400,S0=52.68 mA, S1=63.65 mA, S2=54.18 mA, S3=47.05 mA, S4=42.95 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+78769,2400,S0=51.13 mA, S1=65.20 mA, S2=54.30 mA, S3=46.10 mA, S4=103.90 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+78969,2400,S0=51.90 mA, S1=65.32 mA, S2=55.03 mA, S3=46.28 mA, S4=50.33 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+79169,2400,S0=51.30 mA, S1=61.60 mA, S2=54.75 mA, S3=46.05 mA, S4=50.05 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+79369,2400,S0=51.08 mA, S1=61.95 mA, S2=53.97 mA, S3=47.75 mA, S4=52.85 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+79569,2400,S0=51.08 mA, S1=63.65 mA, S2=53.97 mA, S3=47.58 mA, S4=50.45 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+79769,2400,S0=51.15 mA, S1=63.85 mA, S2=55.03 mA, S3=39.05 mA, S4=52.13 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+79969,2400,S0=53.60 mA, S1=63.38 mA, S2=54.38 mA, S3=39.43 mA, S4=51.53 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+80169,2400,S0=52.10 mA, S1=65.12 mA, S2=54.80 mA, S3=47.28 mA, S4=51.03 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+80369,2400,S0=42.78 mA, S1=63.15 mA, S2=54.50 mA, S3=45.97 mA, S4=50.72 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+80569,2400,S0=52.00 mA, S1=65.20 mA, S2=54.47 mA, S3=42.50 mA, S4=51.00 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=1.00, PA2=0.00, PA1=0.00, PA0=0.00
+80769,2400,S0=51.13 mA, S1=63.10 mA, S2=54.55 mA, S3=46.63 mA, S4=69.27 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+80969,2400,S0=51.25 mA, S1=63.30 mA, S2=54.30 mA, S3=47.15 mA, S4=51.80 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+81169,2400,S0=49.95 mA, S1=62.40 mA, S2=54.85 mA, S3=47.08 mA, S4=50.72 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+81369,2400,S0=51.30 mA, S1=64.72 mA, S2=54.30 mA, S3=63.80 mA, S4=50.55 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+81569,2400,S0=75.40 mA, S1=55.28 mA, S2=54.10 mA, S3=46.05 mA, S4=52.78 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+81769,2400,S0=51.47 mA, S1=63.65 mA, S2=54.95 mA, S3=47.20 mA, S4=70.55 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+81969,2400,S0=51.50 mA, S1=63.35 mA, S2=53.90 mA, S3=46.47 mA, S4=47.90 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+82169,2400,S0=51.20 mA, S1=61.45 mA, S2=54.20 mA, S3=45.83 mA, S4=51.65 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+82369,2400,S0=51.65 mA, S1=64.32 mA, S2=53.83 mA, S3=47.43 mA, S4=50.38 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+82569,2400,S0=73.22 mA, S1=62.53 mA, S2=54.38 mA, S3=39.72 mA, S4=55.30 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+82769,2400,S0=51.33 mA, S1=65.05 mA, S2=54.45 mA, S3=44.15 mA, S4=50.08 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+82969,2400,S0=53.50 mA, S1=64.65 mA, S2=54.85 mA, S3=45.97 mA, S4=52.33 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+83169,2400,S0=73.52 mA, S1=63.28 mA, S2=55.22 mA, S3=47.03 mA, S4=51.53 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=1.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+83369,2400,S0=50.58 mA, S1=62.95 mA, S2=54.65 mA, S3=62.10 mA, S4=51.58 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=1.00, PA2=0.00, PA1=0.00, PA0=0.00
+83569,2400,S0=52.90 mA, S1=61.68 mA, S2=55.35 mA, S3=35.55 mA, S4=50.15 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+83769,2400,S0=53.35 mA, S1=63.30 mA, S2=54.05 mA, S3=54.28 mA, S4=50.30 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+83969,2400,S0=51.70 mA, S1=64.15 mA, S2=54.88 mA, S3=62.80 mA, S4=52.60 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+84169,2400,S0=77.20 mA, S1=63.25 mA, S2=55.08 mA, S3=47.50 mA, S4=51.08 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+84369,2400,S0=51.22 mA, S1=65.47 mA, S2=54.00 mA, S3=87.27 mA, S4=51.22 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+84569,2400,S0=53.43 mA, S1=63.58 mA, S2=54.93 mA, S3=47.55 mA, S4=52.55 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+84769,2400,S0=51.10 mA, S1=61.40 mA, S2=54.68 mA, S3=61.35 mA, S4=41.05 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+84969,2400,S0=52.75 mA, S1=61.55 mA, S2=55.03 mA, S3=62.20 mA, S4=60.90 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+85169,2400,S0=51.28 mA, S1=47.97 mA, S2=54.20 mA, S3=46.08 mA, S4=52.43 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+85369,2400,S0=51.55 mA, S1=62.40 mA, S2=54.20 mA, S3=46.95 mA, S4=51.22 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+85569,2400,S0=52.93 mA, S1=63.03 mA, S2=54.68 mA, S3=47.50 mA, S4=51.38 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+85769,2400,S0=51.30 mA, S1=62.20 mA, S2=54.05 mA, S3=46.38 mA, S4=51.75 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+85969,2400,S0=53.45 mA, S1=63.35 mA, S2=54.75 mA, S3=46.15 mA, S4=50.20 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+86169,2400,S0=51.35 mA, S1=63.75 mA, S2=54.70 mA, S3=46.80 mA, S4=69.85 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+86369,2400,S0=51.80 mA, S1=54.10 mA, S2=54.63 mA, S3=46.30 mA, S4=47.13 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+86569,2400,S0=51.33 mA, S1=64.10 mA, S2=54.38 mA, S3=46.08 mA, S4=51.88 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+86769,2400,S0=52.08 mA, S1=62.18 mA, S2=54.95 mA, S3=47.33 mA, S4=52.35 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+86969,2400,S0=53.65 mA, S1=63.22 mA, S2=54.00 mA, S3=46.93 mA, S4=52.72 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+87169,2400,S0=41.65 mA, S1=62.53 mA, S2=54.83 mA, S3=46.33 mA, S4=52.78 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+87369,2400,S0=53.75 mA, S1=47.05 mA, S2=54.88 mA, S3=47.08 mA, S4=43.05 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+87569,2400,S0=51.63 mA, S1=63.35 mA, S2=54.72 mA, S3=46.43 mA, S4=51.30 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+87769,2400,S0=51.08 mA, S1=63.18 mA, S2=54.50 mA, S3=42.05 mA, S4=51.97 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+87969,2400,S0=51.45 mA, S1=68.15 mA, S2=54.22 mA, S3=46.38 mA, S4=50.18 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+88169,2400,S0=51.93 mA, S1=65.22 mA, S2=54.50 mA, S3=44.97 mA, S4=51.18 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+88369,2400,S0=51.63 mA, S1=63.13 mA, S2=63.72 mA, S3=39.50 mA, S4=51.40 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+88569,2400,S0=53.88 mA, S1=63.03 mA, S2=63.83 mA, S3=47.38 mA, S4=51.35 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+88769,2400,S0=51.13 mA, S1=60.08 mA, S2=62.78 mA, S3=46.55 mA, S4=51.18 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+88969,2400,S0=51.08 mA, S1=62.47 mA, S2=63.38 mA, S3=47.25 mA, S4=49.97 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+89169,2400,S0=52.93 mA, S1=65.37 mA, S2=63.70 mA, S3=40.50 mA, S4=35.33 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+89369,2400,S0=73.75 mA, S1=64.22 mA, S2=63.65 mA, S3=47.20 mA, S4=51.00 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+89569,2400,S0=51.13 mA, S1=62.40 mA, S2=63.65 mA, S3=59.35 mA, S4=70.52 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+89769,2400,S0=51.22 mA, S1=63.40 mA, S2=63.90 mA, S3=39.43 mA, S4=53.10 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+89969,2400,S0=52.97 mA, S1=64.85 mA, S2=63.18 mA, S3=40.58 mA, S4=50.47 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=1.00, PA2=0.00, PA1=0.00, PA0=0.00
+90169,2400,S0=52.68 mA, S1=63.97 mA, S2=63.95 mA, S3=46.58 mA, S4=52.80 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=1.00, PA2=0.00, PA1=0.00, PA0=0.00
+90369,2400,S0=52.70 mA, S1=63.08 mA, S2=63.93 mA, S3=47.18 mA, S4=52.35 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+90569,2400,S0=51.25 mA, S1=63.75 mA, S2=63.85 mA, S3=47.25 mA, S4=52.60 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=1.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+90769,2400,S0=51.68 mA, S1=61.55 mA, S2=63.78 mA, S3=46.20 mA, S4=54.88 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+90969,2400,S0=51.90 mA, S1=63.00 mA, S2=63.53 mA, S3=56.65 mA, S4=50.63 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+91169,2400,S0=46.78 mA, S1=63.40 mA, S2=63.47 mA, S3=39.60 mA, S4=50.35 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+91369,2400,S0=52.05 mA, S1=62.95 mA, S2=63.80 mA, S3=39.10 mA, S4=55.63 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+91569,2400,S0=51.08 mA, S1=62.22 mA, S2=62.63 mA, S3=38.93 mA, S4=51.70 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+91769,2400,S0=51.10 mA, S1=61.95 mA, S2=63.28 mA, S3=47.03 mA, S4=51.70 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+91969,2400,S0=49.78 mA, S1=62.88 mA, S2=62.97 mA, S3=46.80 mA, S4=52.80 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+92169,2400,S0=51.30 mA, S1=62.93 mA, S2=63.70 mA, S3=45.85 mA, S4=51.93 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+92369,2400,S0=51.08 mA, S1=61.35 mA, S2=61.33 mA, S3=55.58 mA, S4=51.40 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+92569,2400,S0=52.95 mA, S1=63.95 mA, S2=60.72 mA, S3=52.68 mA, S4=73.05 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+92769,2400,S0=52.90 mA, S1=64.52 mA, S2=61.75 mA, S3=89.20 mA, S4=41.47 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+92969,2400,S0=53.53 mA, S1=63.20 mA, S2=61.28 mA, S3=46.80 mA, S4=101.50 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+93169,2400,S0=51.25 mA, S1=63.35 mA, S2=60.80 mA, S3=38.97 mA, S4=70.82 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=1.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+93369,2400,S0=53.05 mA, S1=62.70 mA, S2=61.50 mA, S3=46.35 mA, S4=41.38 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+93569,2400,S0=52.65 mA, S1=63.80 mA, S2=61.05 mA, S3=39.33 mA, S4=51.55 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+93769,2400,S0=51.25 mA, S1=64.43 mA, S2=61.80 mA, S3=46.33 mA, S4=42.13 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+93969,2400,S0=53.13 mA, S1=65.27 mA, S2=61.95 mA, S3=40.90 mA, S4=41.65 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+94169,2400,S0=50.03 mA, S1=57.08 mA, S2=61.95 mA, S3=39.38 mA, S4=51.58 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00
+94369,2400,S0=53.45 mA, S1=62.38 mA, S2=61.10 mA, S3=44.93 mA, S4=42.63 mA
+FSR Live: PB0=0.00, PA7=0.00, PA6=0.00, PA5=0.00, PA4=0.00, PA3=0.00, PA2=0.00, PA1=0.00, PA0=0.00

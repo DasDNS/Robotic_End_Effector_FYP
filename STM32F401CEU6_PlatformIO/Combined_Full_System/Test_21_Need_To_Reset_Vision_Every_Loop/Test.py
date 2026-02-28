@@ -26,12 +26,12 @@ from rclpy.node import Node
 from std_msgs.msg import String as RosString
 
 # ----------------------------
-# ROS topic names
+# ROS topic names (ABSOLUTE for cross-machine consistency)
 # ----------------------------
-ROS_TOPIC_REQUEST = "finger_pattern_request"   # UI -> vision laptop
-ROS_TOPIC_PATTERN = "finger_pattern"           # vision laptop -> UI
-ROS_TOPIC_ACK = "finger_pattern_ack"           # UI -> vision laptop (ACK + STATE + STATUS)
-ROS_TOPIC_CMD = "finger_control_cmd"           # vision laptop -> UI (Grab / Idle? / State?)
+ROS_TOPIC_REQUEST = "/finger_pattern_request"   # UI -> vision laptop
+ROS_TOPIC_PATTERN = "/finger_pattern"           # vision laptop -> UI
+ROS_TOPIC_ACK     = "/finger_pattern_ack"       # UI -> vision laptop (ACK + STATE + STATUS + AUTO)
+ROS_TOPIC_CMD     = "/finger_control_cmd"       # vision laptop -> UI (Grab / Idle? / State? + info acks)
 
 PATTERN_RE = re.compile(r"^[01]{5}$")
 STATE_RE = re.compile(r".*\[STATE\]\s+([A-Z_]+)\s*$")
@@ -431,11 +431,14 @@ class RosWorker(QObject):
         self._queue_out("STATE:Unknown")
 
     def publish_status(self, text: str):
-        if not text.startswith("STATUS:"):
-            text = "STATUS:" + text
-        self._queue_out(text)
+        # Always normalize to exactly one STATUS: prefix
+        t = (text or "").strip()
+        if not t:
+            return
+        if t.upper().startswith("STATUS:"):
+            t = t[7:].strip()
+        self._queue_out("STATUS:" + t)
 
-    # ✅ NEW: Auto mode ON/OFF announce (sent on ROS_TOPIC_ACK so receiver already listens there)
     def publish_auto_mode(self, on: bool):
         self._queue_out("AUTO:On" if on else "AUTO:Off")
 
@@ -771,7 +774,6 @@ class MainWindow(QWidget):
             self._enqueue_log_line("[UI] Auto Mode ENABLED.")
             self._set_ros_event("mode", "Auto ON", "#6a1b9a")
 
-            # ✅ NEW: when Auto Mode enabled, announce to other laptop if ROS connected
             if self._ros_connected_to_peer():
                 self.ros.publish_auto_mode(True)
                 self._enqueue_log_line("[ROS] Published AUTO:On (auto enabled).")
@@ -784,7 +786,6 @@ class MainWindow(QWidget):
             self._enqueue_log_line("[UI] Auto Mode DISABLED.")
             self._set_ros_event("mode", "Auto OFF", "#455a64")
 
-            # Optional: announce auto is OFF (only if ROS connected)
             if self._ros_connected_to_peer():
                 self.ros.publish_auto_mode(False)
                 self._enqueue_log_line("[ROS] Published AUTO:Off (auto disabled).")
@@ -928,6 +929,7 @@ class MainWindow(QWidget):
         self._enqueue_log_line(f"[UI] Pattern stored: {pat}")
 
         if self.auto_mode_on:
+            # Auto: ACK + STATE then immediately send to MCU if connected
             self.ros.publish_ack(pat)
             self._enqueue_log_line(f"[AUTO] Published ACK:{pat}")
 
@@ -941,8 +943,8 @@ class MainWindow(QWidget):
             else:
                 self._enqueue_log_line("[AUTO] MCU not connected. Pattern saved for later.")
                 self._set_ros_event("auto", "Auto: ACK+STATE sent; no serial", "#f57c00")
-
         else:
+            # Manual: enable button, still send ACK (harmless)
             self.btn_send_pattern_mcu.setEnabled(True)
             self.ros.publish_ack(pat)
             self._enqueue_log_line(f"[MANUAL] Published ACK:{pat}")
@@ -951,6 +953,14 @@ class MainWindow(QWidget):
     def on_ros_cmd_received(self, cmd: str):
         cmd_raw = (cmd or "").strip()
         cmd_norm = cmd_raw.lower().strip()
+
+        # Vision "info/acks" on /finger_control_cmd. Ignore them.
+        if cmd_norm in (
+            "auto_on_ack", "auto_off_ack",
+            "ack_rx", "grab_ack_rx",
+        ) or cmd_norm.startswith("state_rx_"):
+            self._enqueue_log_line(f"[UI] Vision info: {cmd_raw}")
+            return
 
         if not self.auto_mode_on:
             self._enqueue_log_line(f"[UI] ROS CMD ignored (auto mode off): {cmd_raw}")
@@ -967,7 +977,7 @@ class MainWindow(QWidget):
             return
 
         self._enqueue_log_line(f"[AUTO] CMD unknown: {cmd_raw}")
-        self.ros.publish_status(f"STATUS:UnknownCmd({cmd_raw})")
+        self.ros.publish_status(f"UnknownCmd({cmd_raw})")
         self._set_ros_event("cmd", f"Unknown CMD: {cmd_raw}", "#c62828")
 
     def _publish_state_reply(self, reason: str = ""):
@@ -990,26 +1000,26 @@ class MainWindow(QWidget):
     def _handle_auto_grab(self):
         if not self._latest_pattern or not PATTERN_RE.match(self._latest_pattern):
             self._enqueue_log_line("[AUTO] Grab blocked: no valid pattern stored.")
-            self.ros.publish_status("STATUS:GrabBlocked(NoPattern)")
+            self.ros.publish_status("GrabBlocked(NoPattern)")
             self._set_ros_event("grab", "Grab blocked: No pattern", "#c62828")
             return
 
         if self._last_state is None:
             self._enqueue_log_line("[AUTO] Grab blocked: MCU state unknown (no [STATE] received yet).")
-            self.ros.publish_status("STATUS:GrabBlocked(StateUnknown)")
+            self.ros.publish_status("GrabBlocked(StateUnknown)")
             self._set_ros_event("grab", "Grab blocked: State Unknown", "#8e24aa")
             self.ros.publish_state_unknown()
             return
 
         if (self._last_state or "").strip().upper() != "IDLE":
             self._enqueue_log_line(f"[AUTO] Grab blocked: state is {self._last_state}, not IDLE.")
-            self.ros.publish_status("STATUS:GrabBlocked(NotIdle)")
+            self.ros.publish_status("GrabBlocked(NotIdle)")
             self._set_ros_event("grab", f"Grab blocked: Not Idle ({self._last_state})", "#f57c00")
             return
 
         if not self.serial_mgr.is_connected():
             self._enqueue_log_line("[AUTO] Grab blocked: MCU serial not connected.")
-            self.ros.publish_status("STATUS:GrabBlocked(NoSerial)")
+            self.ros.publish_status("GrabBlocked(NoSerial)")
             self._set_ros_event("grab", "Grab blocked: No serial", "#c62828")
             return
 
@@ -1020,7 +1030,7 @@ class MainWindow(QWidget):
 
         self._send_allowed(START_CMD_TO_MCU)
         self._enqueue_log_line(f"[AUTO] Sent Start ({START_CMD_TO_MCU}) to MCU.")
-        self.ros.publish_status("STATUS:GrabStarted")
+        self.ros.publish_status("GrabStarted")
         self._set_ros_event("grab", f"Grab started (sent {START_CMD_TO_MCU})", "#2e7d32")
 
     # ---------------- Manual: send pattern to MCU ----------------
@@ -1037,13 +1047,31 @@ class MainWindow(QWidget):
 
     # ---------------- Reset/Open behavior (works in both modes) ----------------
     def reset_open_pressed(self):
+        """
+        Requirement from you:
+        - In AUTO mode (same as manual), when Reset/Open is pressed:
+          1) Pattern must DISAPPEAR visually
+          2) UI must NOT remember the pattern (forget it)
+        """
         if not self._ensure_connected():
             return
+
+        # Send reset to MCU
         self.serial_mgr.write_line_lf(RESET_CMD_TO_MCU)
+
+        # ✅ Forget pattern completely + hide it in UI (both manual + auto)
+        self.active_fingers_widget.set_pattern(None)
+        self._latest_pattern = None
+        self._pattern_sent_to_mcu = False
+        self._waiting_for_pattern = False
+        self.btn_send_pattern_mcu.setEnabled(False)
+
         self._pending_idle_publish_after_reset = True
-        self._enqueue_log_line(f"[UI] Reset/Open sent to MCU ({RESET_CMD_TO_MCU}). Waiting for MCU to report IDLE...")
+        self._enqueue_log_line(
+            f"[UI] Reset/Open sent to MCU ({RESET_CMD_TO_MCU}). Cleared pattern. Waiting for MCU to report IDLE..."
+        )
         if self.auto_mode_on:
-            self._set_ros_event("reset", "Reset sent; waiting for IDLE…", "#1565c0")
+            self._set_ros_event("reset", "Reset sent; pattern cleared; waiting for IDLE…", "#1565c0")
 
     # ---------------- MCU state display ----------------
     def _state_color(self, st: str) -> str:
@@ -1156,6 +1184,7 @@ class MainWindow(QWidget):
         self.log_box.clear()
         self._latest_pattern = None
         self._pattern_sent_to_mcu = False
+        self._waiting_for_pattern = False
         self.btn_send_pattern_mcu.setEnabled(False)
         self._clear_ros_event()
 
@@ -1200,6 +1229,8 @@ class MainWindow(QWidget):
         self.btn_disconnect.setEnabled(True)
         self._enqueue_log_line("Connected to MCU.")
 
+        # Note: because Reset/Open now clears _latest_pattern,
+        # AUTO will NOT re-send any old pattern after reconnect unless a new pattern is received.
         if self.auto_mode_on and self._latest_pattern and PATTERN_RE.match(self._latest_pattern) and not self._pattern_sent_to_mcu:
             self.serial_mgr.write_line_lf(self._latest_pattern)
             self._pattern_sent_to_mcu = True
@@ -1240,7 +1271,12 @@ class MainWindow(QWidget):
             self.active_fingers_widget.set_pattern(cleaned)
 
         if cleaned == RESET_CMD_TO_MCU:
+            # If user sends "3" via debug box, also forget the pattern (same rule).
             self.active_fingers_widget.set_pattern(None)
+            self._latest_pattern = None
+            self._pattern_sent_to_mcu = False
+            self._waiting_for_pattern = False
+            self.btn_send_pattern_mcu.setEnabled(False)
 
         self.serial_mgr.write_line_lf(cleaned)
 
